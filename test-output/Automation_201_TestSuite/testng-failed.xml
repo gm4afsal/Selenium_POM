@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Automation_201_TestSuite]">
+  <test name="TC002_SignIn(failed)">
+    <classes>
+      <class name="com.mindtree.automation201.test.SignIn_test">
+        <methods>
+          <include name="signIn" invocation-numbers="0 1"/>
+        </methods>
+      </class> <!-- com.mindtree.automation201.test.SignIn_test -->
+    </classes>
+  </test> <!-- TC002_SignIn(failed) -->
+  <test name="TC003_One_Way_Trip(failed)">
+    <classes>
+      <class name="com.mindtree.automation201.test.OneWayTrip_test">
+        <methods>
+          <include name="oneWayTripFlight" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.mindtree.automation201.test.OneWayTrip_test -->
+    </classes>
+  </test> <!-- TC003_One_Way_Trip(failed) -->
+  <test name="TC004_Two_Way_Trip(failed)">
+    <classes>
+      <class name="com.mindtree.automation201.test.TwoWayTrip_test">
+        <methods>
+          <include name="twoWayTripFlight" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.mindtree.automation201.test.TwoWayTrip_test -->
+    </classes>
+  </test> <!-- TC004_Two_Way_Trip(failed) -->
+</suite> <!-- Failed suite [Automation_201_TestSuite] -->

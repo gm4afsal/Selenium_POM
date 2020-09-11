@@ -1,0 +1,1019 @@
+2018-11-13 10:25:59,652 - NewTours_Automation_201_Logs -INFO - Starting browser
+2018-11-13 10:26:02,378 - NewTours_Automation_201_Logs -INFO - Browser started
+2018-11-13 10:26:05,783 - NewTours_Automation_201_Logs -INFO - Url entered
+2018-11-13 10:26:06,331 - NewTours_Automation_201_Logs -INFO - Starting Register TestCase
+2018-11-13 10:26:06,862 - NewTours_Automation_201_Logs -INFO - Register Link is displayed
+2018-11-13 10:26:06,893 - NewTours_Automation_201_Logs -INFO - Register link is clickable
+2018-11-13 10:26:07,834 - NewTours_Automation_201_Logs -INFO - Register Link is clicked
+2018-11-13 10:26:07,904 - NewTours_Automation_201_Logs -INFO - Firstname field is displayed
+2018-11-13 10:26:08,031 - NewTours_Automation_201_Logs -INFO - Firstname is entered
+2018-11-13 10:26:08,088 - NewTours_Automation_201_Logs -INFO - Lastname field is displayed
+2018-11-13 10:26:08,171 - NewTours_Automation_201_Logs -INFO - Lastname is entered
+2018-11-13 10:26:08,228 - NewTours_Automation_201_Logs -INFO - Phone number field is displayed
+2018-11-13 10:26:08,364 - NewTours_Automation_201_Logs -INFO - Phone number is enetered
+2018-11-13 10:26:08,406 - NewTours_Automation_201_Logs -INFO - Email field is displayed
+2018-11-13 10:26:08,569 - NewTours_Automation_201_Logs -INFO - Email is entered
+2018-11-13 10:26:08,621 - NewTours_Automation_201_Logs -INFO - Adderss Line 1 field is displayed
+2018-11-13 10:26:08,781 - NewTours_Automation_201_Logs -INFO - Address Line 1 is entered
+2018-11-13 10:26:08,832 - NewTours_Automation_201_Logs -INFO - Address Line 2 field is displayed
+2018-11-13 10:26:08,977 - NewTours_Automation_201_Logs -INFO - Address Line 2 is entered
+2018-11-13 10:26:09,022 - NewTours_Automation_201_Logs -INFO - City field is displayed
+2018-11-13 10:26:09,137 - NewTours_Automation_201_Logs -INFO - City is entered
+2018-11-13 10:26:09,204 - NewTours_Automation_201_Logs -INFO - State field is displayed
+2018-11-13 10:26:09,317 - NewTours_Automation_201_Logs -INFO - State is entered
+2018-11-13 10:26:09,372 - NewTours_Automation_201_Logs -INFO - Postal code field is present
+2018-11-13 10:26:09,372 - NewTours_Automation_201_Logs -INFO - Postal code is entered
+2018-11-13 10:26:09,450 - NewTours_Automation_201_Logs -INFO - Country dropdown is displayed
+2018-11-13 10:26:09,601 - NewTours_Automation_201_Logs -INFO - Country selected from dropdown
+2018-11-13 10:26:09,670 - NewTours_Automation_201_Logs -INFO - Username field is displayed
+2018-11-13 10:26:09,798 - NewTours_Automation_201_Logs -INFO - Username is entered
+2018-11-13 10:26:09,855 - NewTours_Automation_201_Logs -INFO - Password field is displayed
+2018-11-13 10:26:09,952 - NewTours_Automation_201_Logs -INFO - Password is entered
+2018-11-13 10:26:10,020 - NewTours_Automation_201_Logs -INFO - Confirm password field is displayed
+2018-11-13 10:26:10,126 - NewTours_Automation_201_Logs -INFO - Password re-entered in confirm password field
+2018-11-13 10:26:10,187 - NewTours_Automation_201_Logs -INFO - Submit button is displayed
+2018-11-13 10:26:10,218 - NewTours_Automation_201_Logs -INFO - Submit button is clickable
+2018-11-13 10:26:49,962 - NewTours_Automation_201_Logs -INFO - Submit button is clicked
+2018-11-13 10:26:50,386 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-11-13 10:26:50,743 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-11-13 10:26:50,759 - NewTours_Automation_201_Logs -INFO - Screenshot captured in Extent Report
+2018-11-13 10:26:50,837 - NewTours_Automation_201_Logs -INFO - Sign in Link is displayed
+2018-11-13 10:26:50,868 - NewTours_Automation_201_Logs -INFO - Sign in Link is clickable
+2018-11-13 10:26:51,717 - NewTours_Automation_201_Logs -INFO - Sign in Link is clicked
+2018-11-13 10:26:52,762 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-11-13 10:26:52,762 - NewTours_Automation_201_Logs -INFO - Registration Testcase Passed
+2018-11-13 10:26:52,777 - NewTours_Automation_201_Logs -INFO - Starting Register TestCase
+2018-11-13 10:26:53,215 - NewTours_Automation_201_Logs -INFO - Register Link is displayed
+2018-11-13 10:26:53,262 - NewTours_Automation_201_Logs -INFO - Register link is clickable
+2018-11-13 10:26:54,276 - NewTours_Automation_201_Logs -INFO - Register Link is clicked
+2018-11-13 10:26:54,358 - NewTours_Automation_201_Logs -INFO - Firstname field is displayed
+2018-11-13 10:26:54,461 - NewTours_Automation_201_Logs -INFO - Firstname is entered
+2018-11-13 10:26:54,526 - NewTours_Automation_201_Logs -INFO - Lastname field is displayed
+2018-11-13 10:26:54,609 - NewTours_Automation_201_Logs -INFO - Lastname is entered
+2018-11-13 10:26:54,667 - NewTours_Automation_201_Logs -INFO - Phone number field is displayed
+2018-11-13 10:26:54,791 - NewTours_Automation_201_Logs -INFO - Phone number is enetered
+2018-11-13 10:26:54,858 - NewTours_Automation_201_Logs -INFO - Email field is displayed
+2018-11-13 10:26:55,029 - NewTours_Automation_201_Logs -INFO - Email is entered
+2018-11-13 10:26:55,091 - NewTours_Automation_201_Logs -INFO - Adderss Line 1 field is displayed
+2018-11-13 10:26:55,253 - NewTours_Automation_201_Logs -INFO - Address Line 1 is entered
+2018-11-13 10:26:55,293 - NewTours_Automation_201_Logs -INFO - Address Line 2 field is displayed
+2018-11-13 10:26:55,455 - NewTours_Automation_201_Logs -INFO - Address Line 2 is entered
+2018-11-13 10:26:55,494 - NewTours_Automation_201_Logs -INFO - City field is displayed
+2018-11-13 10:26:55,604 - NewTours_Automation_201_Logs -INFO - City is entered
+2018-11-13 10:26:55,647 - NewTours_Automation_201_Logs -INFO - State field is displayed
+2018-11-13 10:26:55,755 - NewTours_Automation_201_Logs -INFO - State is entered
+2018-11-13 10:26:55,796 - NewTours_Automation_201_Logs -INFO - Postal code field is present
+2018-11-13 10:26:55,890 - NewTours_Automation_201_Logs -INFO - Postal code is entered
+2018-11-13 10:26:55,943 - NewTours_Automation_201_Logs -INFO - Country dropdown is displayed
+2018-11-13 10:26:56,057 - NewTours_Automation_201_Logs -INFO - Country selected from dropdown
+2018-11-13 10:26:56,119 - NewTours_Automation_201_Logs -INFO - Username field is displayed
+2018-11-13 10:26:56,229 - NewTours_Automation_201_Logs -INFO - Username is entered
+2018-11-13 10:26:56,276 - NewTours_Automation_201_Logs -INFO - Password field is displayed
+2018-11-13 10:26:56,374 - NewTours_Automation_201_Logs -INFO - Password is entered
+2018-11-13 10:26:56,431 - NewTours_Automation_201_Logs -INFO - Confirm password field is displayed
+2018-11-13 10:26:56,518 - NewTours_Automation_201_Logs -INFO - Password re-entered in confirm password field
+2018-11-13 10:26:56,563 - NewTours_Automation_201_Logs -INFO - Submit button is displayed
+2018-11-13 10:26:56,595 - NewTours_Automation_201_Logs -INFO - Submit button is clickable
+2018-11-13 10:27:34,881 - NewTours_Automation_201_Logs -INFO - Submit button is clicked
+2018-11-13 10:27:35,301 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-11-13 10:27:35,631 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-11-13 10:27:35,631 - NewTours_Automation_201_Logs -INFO - Screenshot captured in Extent Report
+2018-11-13 10:27:35,693 - NewTours_Automation_201_Logs -INFO - Sign in Link is displayed
+2018-11-13 10:27:35,724 - NewTours_Automation_201_Logs -INFO - Sign in Link is clickable
+2018-11-13 10:27:36,354 - NewTours_Automation_201_Logs -INFO - Sign in Link is clicked
+2018-11-13 10:27:36,736 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-11-13 10:27:36,736 - NewTours_Automation_201_Logs -INFO - Registration Testcase Passed
+2018-11-13 10:27:36,779 - NewTours_Automation_201_Logs -INFO - Starting Sign In TestCase
+2018-11-13 10:27:36,965 - NewTours_Automation_201_Logs -INFO - Username field is displayed
+2018-11-13 10:27:37,056 - NewTours_Automation_201_Logs -INFO - Username is entered
+2018-11-13 10:27:37,110 - NewTours_Automation_201_Logs -INFO - Password field is displayed
+2018-11-13 10:27:37,209 - NewTours_Automation_201_Logs -INFO - Password is entered
+2018-11-13 10:27:37,260 - NewTours_Automation_201_Logs -INFO - Submit button is displayed
+2018-11-13 10:27:37,291 - NewTours_Automation_201_Logs -INFO - Submit button is clickable
+2018-11-13 10:27:38,774 - NewTours_Automation_201_Logs -INFO - Submit button is clicked
+2018-11-13 10:27:38,792 - NewTours_Automation_201_Logs -ERROR - Sign in with wrong credentials expected [true] but found [false]
+2018-11-13 10:27:39,122 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-11-13 10:27:39,122 - NewTours_Automation_201_Logs -INFO - Screenshot captured in Extent Report
+2018-11-13 10:27:39,122 - NewTours_Automation_201_Logs -INFO - Starting Sign In TestCase
+2018-11-13 10:27:39,261 - NewTours_Automation_201_Logs -INFO - Username field is displayed
+2018-11-13 10:27:39,357 - NewTours_Automation_201_Logs -INFO - Username is entered
+2018-11-13 10:27:39,399 - NewTours_Automation_201_Logs -INFO - Password field is displayed
+2018-11-13 10:27:39,507 - NewTours_Automation_201_Logs -INFO - Password is entered
+2018-11-13 10:27:39,551 - NewTours_Automation_201_Logs -INFO - Submit button is displayed
+2018-11-13 10:27:39,564 - NewTours_Automation_201_Logs -INFO - Submit button is clickable
+2018-11-13 10:28:19,861 - NewTours_Automation_201_Logs -INFO - Submit button is clicked
+2018-11-13 10:28:19,877 - NewTours_Automation_201_Logs -INFO - Sign In Successful
+2018-11-13 10:28:20,222 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-11-13 10:28:20,551 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-11-13 10:28:20,551 - NewTours_Automation_201_Logs -INFO - Screenshot captured in Extent Report
+2018-11-13 10:28:20,618 - NewTours_Automation_201_Logs -INFO - Sign-off button is displayed
+2018-11-13 10:28:20,649 - NewTours_Automation_201_Logs -INFO - Sign-off button is clickable
+2018-11-13 10:28:21,562 - NewTours_Automation_201_Logs -INFO - Sign-off button is clicked
+2018-11-13 10:28:21,937 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-11-13 10:28:21,937 - NewTours_Automation_201_Logs -INFO - Sign in Testcase Passed
+2018-11-13 10:28:21,971 - NewTours_Automation_201_Logs -INFO - Starting One Way Trip TestCase
+2018-11-13 10:28:22,133 - NewTours_Automation_201_Logs -INFO - Username field is displayed
+2018-11-13 10:28:22,211 - NewTours_Automation_201_Logs -INFO - Username is entered
+2018-11-13 10:28:22,267 - NewTours_Automation_201_Logs -INFO - Password field is displayed
+2018-11-13 10:28:22,341 - NewTours_Automation_201_Logs -INFO - Password is entered
+2018-11-13 10:28:22,392 - NewTours_Automation_201_Logs -INFO - Submit button is displayed
+2018-11-13 10:28:22,410 - NewTours_Automation_201_Logs -INFO - Submit button is clickable
+2018-11-13 10:29:04,871 - NewTours_Automation_201_Logs -INFO - Submit button is clicked
+2018-11-13 10:29:04,890 - NewTours_Automation_201_Logs -INFO - Sign In Successful
+2018-11-13 10:29:05,227 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-11-13 10:29:05,434 - NewTours_Automation_201_Logs -INFO - Oneway radio button is displayed
+2018-11-13 10:29:05,528 - NewTours_Automation_201_Logs -INFO - Oneway is selected
+2018-11-13 10:29:05,587 - NewTours_Automation_201_Logs -INFO - Passengers dropdown is displayed
+2018-11-13 10:29:05,745 - NewTours_Automation_201_Logs -INFO - Number of passengers selected
+2018-11-13 10:29:05,809 - NewTours_Automation_201_Logs -INFO - Departing city dropdown is displayed
+2018-11-13 10:29:05,934 - NewTours_Automation_201_Logs -INFO - Departing city is selected
+2018-11-13 10:29:05,975 - NewTours_Automation_201_Logs -INFO - Departing month dropdown is displayed
+2018-11-13 10:29:06,132 - NewTours_Automation_201_Logs -INFO - Departing month is selected
+2018-11-13 10:29:06,188 - NewTours_Automation_201_Logs -INFO - Departing day dropdown is displayed
+2018-11-13 10:29:06,345 - NewTours_Automation_201_Logs -INFO - Departing day is selected
+2018-11-13 10:29:06,405 - NewTours_Automation_201_Logs -INFO - Arriving city dropdown is displayed
+2018-11-13 10:29:06,531 - NewTours_Automation_201_Logs -INFO - Arriving city is selected
+2018-11-13 10:29:06,769 - NewTours_Automation_201_Logs -INFO - All service class radio buttons are present
+2018-11-13 10:29:06,844 - NewTours_Automation_201_Logs -INFO - Service class is selected
+2018-11-13 10:29:06,890 - NewTours_Automation_201_Logs -INFO - Airline dropdown is displayed
+2018-11-13 10:29:07,015 - NewTours_Automation_201_Logs -INFO - Airline is selected
+2018-11-13 10:29:07,056 - NewTours_Automation_201_Logs -INFO - Continue button is displayed
+2018-11-13 10:29:07,088 - NewTours_Automation_201_Logs -INFO - Continue button is clickable
+2018-11-13 10:29:08,155 - NewTours_Automation_201_Logs -INFO - Continue button is clicked
+2018-11-13 10:29:08,542 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-11-13 10:29:08,854 - NewTours_Automation_201_Logs -INFO - All departing flights radio buttons are displayed
+2018-11-13 10:29:08,928 - NewTours_Automation_201_Logs -INFO - Departing flight selected
+2018-11-13 10:29:09,297 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-11-13 10:29:09,360 - NewTours_Automation_201_Logs -INFO - Confirm button is displayed
+2018-11-13 10:29:09,391 - NewTours_Automation_201_Logs -INFO - Confirm button is clickable
+2018-11-13 10:29:10,643 - NewTours_Automation_201_Logs -INFO - Confirm button is clicked
+2018-11-13 10:29:11,016 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-11-13 10:29:11,526 - NewTours_Automation_201_Logs -INFO - Total number of passengers: 3
+2018-11-13 10:29:11,604 - NewTours_Automation_201_Logs -INFO - Passenger 1 firstname field is displayed
+2018-11-13 10:29:11,783 - NewTours_Automation_201_Logs -INFO - Passenger 1 firstname is entered
+2018-11-13 10:29:11,825 - NewTours_Automation_201_Logs -INFO - Passenger 1 lastname field is displayed
+2018-11-13 10:29:11,991 - NewTours_Automation_201_Logs -INFO - Passenger 1 lastname is entered
+2018-11-13 10:29:12,053 - NewTours_Automation_201_Logs -INFO - Passenger 1 meal dropdown is displayed
+2018-11-13 10:29:12,216 - NewTours_Automation_201_Logs -INFO - Passenger 1 meal is selected
+2018-11-13 10:29:12,286 - NewTours_Automation_201_Logs -INFO - Passenger 2 firstname field is displayed
+2018-11-13 10:29:12,439 - NewTours_Automation_201_Logs -INFO - Passenger 2 firstname is entered
+2018-11-13 10:29:12,487 - NewTours_Automation_201_Logs -INFO - Passenger 2 lastname field is displayed
+2018-11-13 10:29:12,632 - NewTours_Automation_201_Logs -INFO - Passenger 2 lastname is entered
+2018-11-13 10:29:12,672 - NewTours_Automation_201_Logs -INFO - Passenger 2 meal dropdown is displayed
+2018-11-13 10:29:12,788 - NewTours_Automation_201_Logs -INFO - Passenger 2 meal is selected
+2018-11-13 10:29:12,838 - NewTours_Automation_201_Logs -INFO - Passenger 3 firstname field is displayed
+2018-11-13 10:29:12,993 - NewTours_Automation_201_Logs -INFO - Passenger 3 firstname is entered
+2018-11-13 10:29:13,053 - NewTours_Automation_201_Logs -INFO - Passenger 3 lastname field is displayed
+2018-11-13 10:29:13,192 - NewTours_Automation_201_Logs -INFO - Passenger 3 lastname is entered
+2018-11-13 10:29:13,253 - NewTours_Automation_201_Logs -INFO - Passenger 3 meal dropdown is displayed
+2018-11-13 10:29:13,253 - NewTours_Automation_201_Logs -INFO - Passenger 3 meal is selected
+2018-11-13 10:29:13,315 - NewTours_Automation_201_Logs -INFO - Credit card type dropdown is displayed
+2018-11-13 10:29:13,430 - NewTours_Automation_201_Logs -INFO - Credit card type is selected
+2018-11-13 10:29:13,486 - NewTours_Automation_201_Logs -INFO - Credit card number field is displayed
+2018-11-13 10:29:13,690 - NewTours_Automation_201_Logs -INFO - Credit card number is entered
+2018-11-13 10:29:13,752 - NewTours_Automation_201_Logs -INFO - Expiry month dropdown is displayed
+2018-11-13 10:29:13,855 - NewTours_Automation_201_Logs -INFO - Expiry month is selected
+2018-11-13 10:29:13,905 - NewTours_Automation_201_Logs -INFO - Expiry year dropdown is displayed
+2018-11-13 10:29:14,061 - NewTours_Automation_201_Logs -INFO - Expiry year is selected
+2018-11-13 10:29:14,104 - NewTours_Automation_201_Logs -INFO - Credit card firstname field is displayed
+2018-11-13 10:29:14,237 - NewTours_Automation_201_Logs -INFO - Credit card firstname is entered
+2018-11-13 10:29:14,271 - NewTours_Automation_201_Logs -INFO - Credit card middle name field is displayed
+2018-11-13 10:29:14,340 - NewTours_Automation_201_Logs -INFO - Credit card middle name is enetered
+2018-11-13 10:29:14,405 - NewTours_Automation_201_Logs -INFO - Credit card lastname field is displayed
+2018-11-13 10:29:14,513 - NewTours_Automation_201_Logs -INFO - Credit Card lastname is entered
+2018-11-13 10:29:14,570 - NewTours_Automation_201_Logs -INFO - Ticketless travel checkbox is displayed
+2018-11-13 10:29:14,668 - NewTours_Automation_201_Logs -INFO - Ticketless Travel is selected
+2018-11-13 10:29:14,730 - NewTours_Automation_201_Logs -INFO - Billing address line 1 field is displayed
+2018-11-13 10:29:14,927 - NewTours_Automation_201_Logs -INFO - Billing address line 1 is entered
+2018-11-13 10:29:14,970 - NewTours_Automation_201_Logs -INFO - Billing address line 2 field is displayed
+2018-11-13 10:29:15,232 - NewTours_Automation_201_Logs -INFO - Billing address line 2 is entered
+2018-11-13 10:29:15,314 - NewTours_Automation_201_Logs -INFO - Billing city field is displayed
+2018-11-13 10:29:15,546 - NewTours_Automation_201_Logs -INFO - Billing city is entered
+2018-11-13 10:29:15,587 - NewTours_Automation_201_Logs -INFO - Billing state field is displayed
+2018-11-13 10:29:15,752 - NewTours_Automation_201_Logs -INFO - Billing state is entered
+2018-11-13 10:29:15,803 - NewTours_Automation_201_Logs -INFO - Billing postal code is displayed
+2018-11-13 10:29:15,943 - NewTours_Automation_201_Logs -INFO - Billing postal code is entered
+2018-11-13 10:29:16,002 - NewTours_Automation_201_Logs -INFO - Billing country dropdown is displayed
+2018-11-13 10:29:16,154 - NewTours_Automation_201_Logs -INFO - Billing country is selected
+2018-11-13 10:29:16,218 - NewTours_Automation_201_Logs -INFO - Same as billing address checkbox is displayed
+2018-11-13 10:29:16,316 - NewTours_Automation_201_Logs -INFO - Same as billing address checkbox selected
+2018-11-13 10:29:16,368 - NewTours_Automation_201_Logs -INFO - Delivery address line 1 field is displayed
+2018-11-13 10:29:16,582 - NewTours_Automation_201_Logs -INFO - Delivery address line 1 entered
+2018-11-13 10:29:16,632 - NewTours_Automation_201_Logs -INFO - Delivery address line 2 field is displayed
+2018-11-13 10:29:16,833 - NewTours_Automation_201_Logs -INFO - Delivery address line 2 entered
+2018-11-13 10:29:16,883 - NewTours_Automation_201_Logs -INFO - Delivery city field is displayed
+2018-11-13 10:29:17,032 - NewTours_Automation_201_Logs -INFO - Delivery city is entered
+2018-11-13 10:29:17,070 - NewTours_Automation_201_Logs -INFO - Delivery state  field is displayed
+2018-11-13 10:29:17,233 - NewTours_Automation_201_Logs -INFO - Delivery state is entered
+2018-11-13 10:29:17,271 - NewTours_Automation_201_Logs -INFO - Delivey postal code field is displayed
+2018-11-13 10:29:17,412 - NewTours_Automation_201_Logs -INFO - Delivery postal code is entered
+2018-11-13 10:29:17,469 - NewTours_Automation_201_Logs -INFO - Delivery country dropdown is displayed
+2018-11-13 10:29:17,603 - NewTours_Automation_201_Logs -INFO - Delivery country is selected
+2018-11-13 10:29:17,608 - NewTours_Automation_201_Logs -INFO - Alert is present
+2018-11-13 10:29:17,611 - NewTours_Automation_201_Logs -INFO - Alert message: You have chosen a mailing location outside of the United States and its territories. An additional charge of $6.5 will be added as mailing charge.
+2018-11-13 10:29:17,683 - NewTours_Automation_201_Logs -INFO - Secure purchase button is displayed
+2018-11-13 10:29:17,706 - NewTours_Automation_201_Logs -INFO - Secure purchase button is clickable
+2018-11-13 10:29:19,063 - NewTours_Automation_201_Logs -INFO - Secure purchase button is clicked
+2018-11-13 10:29:19,467 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-11-13 10:29:19,819 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-11-13 10:29:19,819 - NewTours_Automation_201_Logs -INFO - Screenshot captured in Extent Report
+2018-11-13 10:29:19,897 - NewTours_Automation_201_Logs -INFO - Logout button is displayed
+2018-11-13 10:29:19,928 - NewTours_Automation_201_Logs -INFO - Logout button is clickable
+2018-11-13 10:29:20,885 - NewTours_Automation_201_Logs -INFO - Logout button is clicked
+2018-11-13 10:29:21,272 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-11-13 10:29:21,272 - NewTours_Automation_201_Logs -INFO - One Way Trip TestCase Passed
+2018-11-13 10:29:21,288 - NewTours_Automation_201_Logs -INFO - Starting Two Way Trip TestCase
+2018-11-13 10:29:21,421 - NewTours_Automation_201_Logs -INFO - Username field is displayed
+2018-11-13 10:29:21,508 - NewTours_Automation_201_Logs -INFO - Username is entered
+2018-11-13 10:29:21,558 - NewTours_Automation_201_Logs -INFO - Password field is displayed
+2018-11-13 10:29:21,630 - NewTours_Automation_201_Logs -INFO - Password is entered
+2018-11-13 10:29:21,678 - NewTours_Automation_201_Logs -INFO - Submit button is displayed
+2018-11-13 10:29:21,699 - NewTours_Automation_201_Logs -INFO - Submit button is clickable
+2018-11-13 10:30:04,856 - NewTours_Automation_201_Logs -INFO - Submit button is clicked
+2018-11-13 10:30:04,867 - NewTours_Automation_201_Logs -INFO - Sign In Successful
+2018-11-13 10:30:05,218 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-11-13 10:30:05,458 - NewTours_Automation_201_Logs -INFO - Twoway radio button is displayed
+2018-11-13 10:30:05,489 - NewTours_Automation_201_Logs -INFO - Twoway radio button is clickable
+2018-11-13 10:30:05,607 - NewTours_Automation_201_Logs -INFO - Two way radio button is selected
+2018-11-13 10:30:05,671 - NewTours_Automation_201_Logs -INFO - Passengers dropdown is displayed
+2018-11-13 10:30:05,824 - NewTours_Automation_201_Logs -INFO - Number of passengers selected
+2018-11-13 10:30:05,876 - NewTours_Automation_201_Logs -INFO - Departing city dropdown is displayed
+2018-11-13 10:30:06,026 - NewTours_Automation_201_Logs -INFO - Departing city is clicked
+2018-11-13 10:30:06,075 - NewTours_Automation_201_Logs -INFO - Departing month dropdown is displayed
+2018-11-13 10:30:06,235 - NewTours_Automation_201_Logs -INFO - Departing month is selected
+2018-11-13 10:30:06,288 - NewTours_Automation_201_Logs -INFO - Departing day dropdown is displayed
+2018-11-13 10:30:06,421 - NewTours_Automation_201_Logs -INFO - Departing day is selected
+2018-11-13 10:30:06,490 - NewTours_Automation_201_Logs -INFO - Arriving city dropdown is displayed
+2018-11-13 10:30:06,632 - NewTours_Automation_201_Logs -INFO - Arriving city is selected
+2018-11-13 10:30:06,688 - NewTours_Automation_201_Logs -INFO - Returning month dropdown is displayed
+2018-11-13 10:30:06,846 - NewTours_Automation_201_Logs -INFO - Returning month is selected
+2018-11-13 10:30:06,905 - NewTours_Automation_201_Logs -INFO - Returning day dropdown is displayed
+2018-11-13 10:30:07,037 - NewTours_Automation_201_Logs -INFO - Returning day is selected
+2018-11-13 10:30:07,256 - NewTours_Automation_201_Logs -INFO - All service class radio buttons are present
+2018-11-13 10:30:07,335 - NewTours_Automation_201_Logs -INFO - Service class is selected
+2018-11-13 10:30:07,405 - NewTours_Automation_201_Logs -INFO - Airline dropdown is displayed
+2018-11-13 10:30:07,563 - NewTours_Automation_201_Logs -INFO - Airline is selected
+2018-11-13 10:30:07,624 - NewTours_Automation_201_Logs -INFO - Continue button is displayed
+2018-11-13 10:30:07,655 - NewTours_Automation_201_Logs -INFO - Continue button is clickable
+2018-11-13 10:30:08,778 - NewTours_Automation_201_Logs -INFO - Continue button is clicked
+2018-11-13 10:30:09,127 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-11-13 10:30:29,698 - NewTours_Automation_201_Logs -ERROR - The Webelement could not be loaded in the specified time
+2018-11-13 10:30:30,030 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-11-13 10:30:30,030 - NewTours_Automation_201_Logs -INFO - Screenshot captured in Extent Report
+2018-11-13 10:30:30,062 - NewTours_Automation_201_Logs -INFO - Closing browser
+2018-11-13 10:30:30,765 - NewTours_Automation_201_Logs -INFO - Browser Closed
+2018-11-13 11:16:49,521 - NewTours_Automation_201_Logs -INFO - Starting browser
+2018-11-13 11:16:52,208 - NewTours_Automation_201_Logs -INFO - Browser started
+2018-11-13 11:16:54,948 - NewTours_Automation_201_Logs -INFO - Url entered
+2018-11-13 11:16:55,519 - NewTours_Automation_201_Logs -INFO - Starting Register TestCase
+2018-11-13 11:16:56,023 - NewTours_Automation_201_Logs -INFO - Register Link is displayed
+2018-11-13 11:16:56,055 - NewTours_Automation_201_Logs -INFO - Register link is clickable
+2018-11-13 11:16:56,976 - NewTours_Automation_201_Logs -INFO - Register Link is clicked
+2018-11-13 11:16:57,075 - NewTours_Automation_201_Logs -INFO - Firstname field is displayed
+2018-11-13 11:16:57,198 - NewTours_Automation_201_Logs -INFO - Firstname is entered
+2018-11-13 11:16:57,260 - NewTours_Automation_201_Logs -INFO - Lastname field is displayed
+2018-11-13 11:16:57,344 - NewTours_Automation_201_Logs -INFO - Lastname is entered
+2018-11-13 11:16:57,403 - NewTours_Automation_201_Logs -INFO - Phone number field is displayed
+2018-11-13 11:16:57,543 - NewTours_Automation_201_Logs -INFO - Phone number is enetered
+2018-11-13 11:16:57,596 - NewTours_Automation_201_Logs -INFO - Email field is displayed
+2018-11-13 11:16:57,779 - NewTours_Automation_201_Logs -INFO - Email is entered
+2018-11-13 11:16:57,828 - NewTours_Automation_201_Logs -INFO - Adderss Line 1 field is displayed
+2018-11-13 11:16:58,023 - NewTours_Automation_201_Logs -INFO - Address Line 1 is entered
+2018-11-13 11:16:58,078 - NewTours_Automation_201_Logs -INFO - Address Line 2 field is displayed
+2018-11-13 11:16:58,246 - NewTours_Automation_201_Logs -INFO - Address Line 2 is entered
+2018-11-13 11:16:58,295 - NewTours_Automation_201_Logs -INFO - City field is displayed
+2018-11-13 11:16:58,415 - NewTours_Automation_201_Logs -INFO - City is entered
+2018-11-13 11:16:58,477 - NewTours_Automation_201_Logs -INFO - State field is displayed
+2018-11-13 11:16:58,599 - NewTours_Automation_201_Logs -INFO - State is entered
+2018-11-13 11:16:58,660 - NewTours_Automation_201_Logs -INFO - Postal code field is present
+2018-11-13 11:16:58,660 - NewTours_Automation_201_Logs -INFO - Postal code is entered
+2018-11-13 11:16:58,743 - NewTours_Automation_201_Logs -INFO - Country dropdown is displayed
+2018-11-13 11:16:58,884 - NewTours_Automation_201_Logs -INFO - Country selected from dropdown
+2018-11-13 11:16:58,936 - NewTours_Automation_201_Logs -INFO - Username field is displayed
+2018-11-13 11:16:59,075 - NewTours_Automation_201_Logs -INFO - Username is entered
+2018-11-13 11:16:59,159 - NewTours_Automation_201_Logs -INFO - Password field is displayed
+2018-11-13 11:16:59,317 - NewTours_Automation_201_Logs -INFO - Password is entered
+2018-11-13 11:16:59,395 - NewTours_Automation_201_Logs -INFO - Confirm password field is displayed
+2018-11-13 11:16:59,509 - NewTours_Automation_201_Logs -INFO - Password re-entered in confirm password field
+2018-11-13 11:16:59,562 - NewTours_Automation_201_Logs -INFO - Submit button is displayed
+2018-11-13 11:16:59,594 - NewTours_Automation_201_Logs -INFO - Submit button is clickable
+2018-11-13 11:17:08,719 - NewTours_Automation_201_Logs -INFO - Submit button is clicked
+2018-11-13 11:17:09,142 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-11-13 11:17:09,467 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-11-13 11:17:09,467 - NewTours_Automation_201_Logs -INFO - Screenshot captured in Extent Report
+2018-11-13 11:17:09,545 - NewTours_Automation_201_Logs -INFO - Sign in Link is displayed
+2018-11-13 11:17:09,576 - NewTours_Automation_201_Logs -INFO - Sign in Link is clickable
+2018-11-13 11:17:10,786 - NewTours_Automation_201_Logs -INFO - Sign in Link is clicked
+2018-11-13 11:17:11,120 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-11-13 11:17:11,120 - NewTours_Automation_201_Logs -INFO - Registration Testcase Passed
+2018-11-13 11:17:11,120 - NewTours_Automation_201_Logs -INFO - Starting Register TestCase
+2018-11-13 11:17:11,455 - NewTours_Automation_201_Logs -INFO - Register Link is displayed
+2018-11-13 11:17:11,486 - NewTours_Automation_201_Logs -INFO - Register link is clickable
+2018-11-13 11:17:13,024 - NewTours_Automation_201_Logs -INFO - Register Link is clicked
+2018-11-13 11:17:13,089 - NewTours_Automation_201_Logs -INFO - Firstname field is displayed
+2018-11-13 11:17:13,200 - NewTours_Automation_201_Logs -INFO - Firstname is entered
+2018-11-13 11:17:13,272 - NewTours_Automation_201_Logs -INFO - Lastname field is displayed
+2018-11-13 11:17:13,370 - NewTours_Automation_201_Logs -INFO - Lastname is entered
+2018-11-13 11:17:13,428 - NewTours_Automation_201_Logs -INFO - Phone number field is displayed
+2018-11-13 11:17:13,551 - NewTours_Automation_201_Logs -INFO - Phone number is enetered
+2018-11-13 11:17:13,607 - NewTours_Automation_201_Logs -INFO - Email field is displayed
+2018-11-13 11:17:13,812 - NewTours_Automation_201_Logs -INFO - Email is entered
+2018-11-13 11:17:13,873 - NewTours_Automation_201_Logs -INFO - Adderss Line 1 field is displayed
+2018-11-13 11:17:14,051 - NewTours_Automation_201_Logs -INFO - Address Line 1 is entered
+2018-11-13 11:17:14,107 - NewTours_Automation_201_Logs -INFO - Address Line 2 field is displayed
+2018-11-13 11:17:14,272 - NewTours_Automation_201_Logs -INFO - Address Line 2 is entered
+2018-11-13 11:17:14,325 - NewTours_Automation_201_Logs -INFO - City field is displayed
+2018-11-13 11:17:14,448 - NewTours_Automation_201_Logs -INFO - City is entered
+2018-11-13 11:17:14,505 - NewTours_Automation_201_Logs -INFO - State field is displayed
+2018-11-13 11:17:14,612 - NewTours_Automation_201_Logs -INFO - State is entered
+2018-11-13 11:17:14,658 - NewTours_Automation_201_Logs -INFO - Postal code field is present
+2018-11-13 11:17:14,763 - NewTours_Automation_201_Logs -INFO - Postal code is entered
+2018-11-13 11:17:14,808 - NewTours_Automation_201_Logs -INFO - Country dropdown is displayed
+2018-11-13 11:17:14,954 - NewTours_Automation_201_Logs -INFO - Country selected from dropdown
+2018-11-13 11:17:15,038 - NewTours_Automation_201_Logs -INFO - Username field is displayed
+2018-11-13 11:17:15,214 - NewTours_Automation_201_Logs -INFO - Username is entered
+2018-11-13 11:17:15,258 - NewTours_Automation_201_Logs -INFO - Password field is displayed
+2018-11-13 11:17:15,355 - NewTours_Automation_201_Logs -INFO - Password is entered
+2018-11-13 11:17:15,403 - NewTours_Automation_201_Logs -INFO - Confirm password field is displayed
+2018-11-13 11:17:15,511 - NewTours_Automation_201_Logs -INFO - Password re-entered in confirm password field
+2018-11-13 11:17:15,579 - NewTours_Automation_201_Logs -INFO - Submit button is displayed
+2018-11-13 11:17:15,610 - NewTours_Automation_201_Logs -INFO - Submit button is clickable
+2018-11-13 11:19:44,106 - NewTours_Automation_201_Logs -INFO - Submit button is clicked
+2018-11-13 11:19:44,487 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-11-13 11:19:44,860 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-11-13 11:19:44,860 - NewTours_Automation_201_Logs -INFO - Screenshot captured in Extent Report
+2018-11-13 11:19:44,938 - NewTours_Automation_201_Logs -INFO - Sign in Link is displayed
+2018-11-13 11:19:44,969 - NewTours_Automation_201_Logs -INFO - Sign in Link is clickable
+2018-11-13 11:19:45,600 - NewTours_Automation_201_Logs -INFO - Sign in Link is clicked
+2018-11-13 11:19:45,988 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-11-13 11:19:45,988 - NewTours_Automation_201_Logs -INFO - Registration Testcase Passed
+2018-11-13 11:19:46,035 - NewTours_Automation_201_Logs -INFO - Starting Sign In TestCase
+2018-11-13 11:19:46,229 - NewTours_Automation_201_Logs -INFO - Username field is displayed
+2018-11-13 11:19:46,340 - NewTours_Automation_201_Logs -INFO - Username is entered
+2018-11-13 11:19:46,401 - NewTours_Automation_201_Logs -INFO - Password field is displayed
+2018-11-13 11:19:46,490 - NewTours_Automation_201_Logs -INFO - Password is entered
+2018-11-13 11:19:46,540 - NewTours_Automation_201_Logs -INFO - Submit button is displayed
+2018-11-13 11:19:46,559 - NewTours_Automation_201_Logs -INFO - Submit button is clickable
+2018-11-13 11:19:48,017 - NewTours_Automation_201_Logs -INFO - Submit button is clicked
+2018-11-13 11:19:48,024 - NewTours_Automation_201_Logs -ERROR - Sign in with wrong credentials expected [true] but found [false]
+2018-11-13 11:19:48,434 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-11-13 11:19:48,434 - NewTours_Automation_201_Logs -INFO - Screenshot captured in Extent Report
+2018-11-13 11:19:48,434 - NewTours_Automation_201_Logs -INFO - Starting Sign In TestCase
+2018-11-13 11:19:48,669 - NewTours_Automation_201_Logs -INFO - Username field is displayed
+2018-11-13 11:19:48,764 - NewTours_Automation_201_Logs -INFO - Username is entered
+2018-11-13 11:19:48,811 - NewTours_Automation_201_Logs -INFO - Password field is displayed
+2018-11-13 11:19:48,877 - NewTours_Automation_201_Logs -INFO - Password is entered
+2018-11-13 11:19:48,921 - NewTours_Automation_201_Logs -INFO - Submit button is displayed
+2018-11-13 11:19:48,939 - NewTours_Automation_201_Logs -INFO - Submit button is clickable
+2018-11-13 11:22:03,268 - NewTours_Automation_201_Logs -INFO - Submit button is clicked
+2018-11-13 11:22:03,277 - NewTours_Automation_201_Logs -INFO - Sign In Successful
+2018-11-13 11:22:03,654 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-11-13 11:22:04,002 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-11-13 11:22:04,002 - NewTours_Automation_201_Logs -INFO - Screenshot captured in Extent Report
+2018-11-13 11:22:04,080 - NewTours_Automation_201_Logs -INFO - Sign-off button is displayed
+2018-11-13 11:22:04,112 - NewTours_Automation_201_Logs -INFO - Sign-off button is clickable
+2018-11-13 11:22:05,380 - NewTours_Automation_201_Logs -INFO - Sign-off button is clicked
+2018-11-13 11:22:05,747 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-11-13 11:22:05,747 - NewTours_Automation_201_Logs -INFO - Sign in Testcase Passed
+2018-11-13 11:22:05,778 - NewTours_Automation_201_Logs -INFO - Starting One Way Trip TestCase
+2018-11-13 11:22:05,953 - NewTours_Automation_201_Logs -INFO - Username field is displayed
+2018-11-13 11:22:06,041 - NewTours_Automation_201_Logs -INFO - Username is entered
+2018-11-13 11:22:06,081 - NewTours_Automation_201_Logs -INFO - Password field is displayed
+2018-11-13 11:22:06,174 - NewTours_Automation_201_Logs -INFO - Password is entered
+2018-11-13 11:22:06,225 - NewTours_Automation_201_Logs -INFO - Submit button is displayed
+2018-11-13 11:22:06,237 - NewTours_Automation_201_Logs -INFO - Submit button is clickable
+2018-11-13 11:24:30,451 - NewTours_Automation_201_Logs -INFO - Submit button is clicked
+2018-11-13 11:24:30,462 - NewTours_Automation_201_Logs -INFO - Sign In Successful
+2018-11-13 11:24:30,796 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-11-13 11:24:31,047 - NewTours_Automation_201_Logs -INFO - Oneway radio button is displayed
+2018-11-13 11:24:31,148 - NewTours_Automation_201_Logs -INFO - Oneway is selected
+2018-11-13 11:24:31,205 - NewTours_Automation_201_Logs -INFO - Passengers dropdown is displayed
+2018-11-13 11:24:31,369 - NewTours_Automation_201_Logs -INFO - Number of passengers selected
+2018-11-13 11:24:31,427 - NewTours_Automation_201_Logs -INFO - Departing city dropdown is displayed
+2018-11-13 11:24:31,548 - NewTours_Automation_201_Logs -INFO - Departing city is selected
+2018-11-13 11:24:31,606 - NewTours_Automation_201_Logs -INFO - Departing month dropdown is displayed
+2018-11-13 11:24:31,766 - NewTours_Automation_201_Logs -INFO - Departing month is selected
+2018-11-13 11:24:31,823 - NewTours_Automation_201_Logs -INFO - Departing day dropdown is displayed
+2018-11-13 11:24:32,018 - NewTours_Automation_201_Logs -INFO - Departing day is selected
+2018-11-13 11:24:32,110 - NewTours_Automation_201_Logs -INFO - Arriving city dropdown is displayed
+2018-11-13 11:24:32,259 - NewTours_Automation_201_Logs -INFO - Arriving city is selected
+2018-11-13 11:24:32,484 - NewTours_Automation_201_Logs -INFO - All service class radio buttons are present
+2018-11-13 11:24:32,566 - NewTours_Automation_201_Logs -INFO - Service class is selected
+2018-11-13 11:24:32,609 - NewTours_Automation_201_Logs -INFO - Airline dropdown is displayed
+2018-11-13 11:24:32,738 - NewTours_Automation_201_Logs -INFO - Airline is selected
+2018-11-13 11:24:32,775 - NewTours_Automation_201_Logs -INFO - Continue button is displayed
+2018-11-13 11:24:32,806 - NewTours_Automation_201_Logs -INFO - Continue button is clickable
+2018-11-13 11:24:34,066 - NewTours_Automation_201_Logs -INFO - Continue button is clicked
+2018-11-13 11:24:34,434 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-11-13 11:24:34,753 - NewTours_Automation_201_Logs -INFO - All departing flights radio buttons are displayed
+2018-11-13 11:24:34,818 - NewTours_Automation_201_Logs -INFO - Departing flight selected
+2018-11-13 11:24:35,190 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-11-13 11:24:35,241 - NewTours_Automation_201_Logs -INFO - Confirm button is displayed
+2018-11-13 11:24:35,276 - NewTours_Automation_201_Logs -INFO - Confirm button is clickable
+2018-11-13 11:24:36,696 - NewTours_Automation_201_Logs -INFO - Confirm button is clicked
+2018-11-13 11:24:37,078 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-11-13 11:24:37,790 - NewTours_Automation_201_Logs -INFO - Total number of passengers: 3
+2018-11-13 11:24:37,869 - NewTours_Automation_201_Logs -INFO - Passenger 1 firstname field is displayed
+2018-11-13 11:24:38,052 - NewTours_Automation_201_Logs -INFO - Passenger 1 firstname is entered
+2018-11-13 11:24:38,103 - NewTours_Automation_201_Logs -INFO - Passenger 1 lastname field is displayed
+2018-11-13 11:24:38,260 - NewTours_Automation_201_Logs -INFO - Passenger 1 lastname is entered
+2018-11-13 11:24:38,322 - NewTours_Automation_201_Logs -INFO - Passenger 1 meal dropdown is displayed
+2018-11-13 11:24:38,439 - NewTours_Automation_201_Logs -INFO - Passenger 1 meal is selected
+2018-11-13 11:24:38,505 - NewTours_Automation_201_Logs -INFO - Passenger 2 firstname field is displayed
+2018-11-13 11:24:38,667 - NewTours_Automation_201_Logs -INFO - Passenger 2 firstname is entered
+2018-11-13 11:24:38,717 - NewTours_Automation_201_Logs -INFO - Passenger 2 lastname field is displayed
+2018-11-13 11:24:38,855 - NewTours_Automation_201_Logs -INFO - Passenger 2 lastname is entered
+2018-11-13 11:24:38,906 - NewTours_Automation_201_Logs -INFO - Passenger 2 meal dropdown is displayed
+2018-11-13 11:24:39,047 - NewTours_Automation_201_Logs -INFO - Passenger 2 meal is selected
+2018-11-13 11:24:39,106 - NewTours_Automation_201_Logs -INFO - Passenger 3 firstname field is displayed
+2018-11-13 11:24:39,271 - NewTours_Automation_201_Logs -INFO - Passenger 3 firstname is entered
+2018-11-13 11:24:39,306 - NewTours_Automation_201_Logs -INFO - Passenger 3 lastname field is displayed
+2018-11-13 11:24:39,449 - NewTours_Automation_201_Logs -INFO - Passenger 3 lastname is entered
+2018-11-13 11:24:39,506 - NewTours_Automation_201_Logs -INFO - Passenger 3 meal dropdown is displayed
+2018-11-13 11:24:39,506 - NewTours_Automation_201_Logs -INFO - Passenger 3 meal is selected
+2018-11-13 11:24:39,569 - NewTours_Automation_201_Logs -INFO - Credit card type dropdown is displayed
+2018-11-13 11:24:39,728 - NewTours_Automation_201_Logs -INFO - Credit card type is selected
+2018-11-13 11:24:39,788 - NewTours_Automation_201_Logs -INFO - Credit card number field is displayed
+2018-11-13 11:24:40,007 - NewTours_Automation_201_Logs -INFO - Credit card number is entered
+2018-11-13 11:24:40,056 - NewTours_Automation_201_Logs -INFO - Expiry month dropdown is displayed
+2018-11-13 11:24:40,178 - NewTours_Automation_201_Logs -INFO - Expiry month is selected
+2018-11-13 11:24:40,223 - NewTours_Automation_201_Logs -INFO - Expiry year dropdown is displayed
+2018-11-13 11:24:40,366 - NewTours_Automation_201_Logs -INFO - Expiry year is selected
+2018-11-13 11:24:40,436 - NewTours_Automation_201_Logs -INFO - Credit card firstname field is displayed
+2018-11-13 11:24:40,581 - NewTours_Automation_201_Logs -INFO - Credit card firstname is entered
+2018-11-13 11:24:40,638 - NewTours_Automation_201_Logs -INFO - Credit card middle name field is displayed
+2018-11-13 11:24:40,690 - NewTours_Automation_201_Logs -INFO - Credit card middle name is enetered
+2018-11-13 11:24:40,757 - NewTours_Automation_201_Logs -INFO - Credit card lastname field is displayed
+2018-11-13 11:24:40,870 - NewTours_Automation_201_Logs -INFO - Credit Card lastname is entered
+2018-11-13 11:24:40,922 - NewTours_Automation_201_Logs -INFO - Ticketless travel checkbox is displayed
+2018-11-13 11:24:41,023 - NewTours_Automation_201_Logs -INFO - Ticketless Travel is selected
+2018-11-13 11:24:41,075 - NewTours_Automation_201_Logs -INFO - Billing address line 1 field is displayed
+2018-11-13 11:24:41,254 - NewTours_Automation_201_Logs -INFO - Billing address line 1 is entered
+2018-11-13 11:24:41,306 - NewTours_Automation_201_Logs -INFO - Billing address line 2 field is displayed
+2018-11-13 11:24:41,523 - NewTours_Automation_201_Logs -INFO - Billing address line 2 is entered
+2018-11-13 11:24:41,572 - NewTours_Automation_201_Logs -INFO - Billing city field is displayed
+2018-11-13 11:24:41,740 - NewTours_Automation_201_Logs -INFO - Billing city is entered
+2018-11-13 11:24:41,789 - NewTours_Automation_201_Logs -INFO - Billing state field is displayed
+2018-11-13 11:24:41,956 - NewTours_Automation_201_Logs -INFO - Billing state is entered
+2018-11-13 11:24:42,006 - NewTours_Automation_201_Logs -INFO - Billing postal code is displayed
+2018-11-13 11:24:42,159 - NewTours_Automation_201_Logs -INFO - Billing postal code is entered
+2018-11-13 11:24:42,206 - NewTours_Automation_201_Logs -INFO - Billing country dropdown is displayed
+2018-11-13 11:24:42,334 - NewTours_Automation_201_Logs -INFO - Billing country is selected
+2018-11-13 11:24:42,388 - NewTours_Automation_201_Logs -INFO - Same as billing address checkbox is displayed
+2018-11-13 11:24:42,490 - NewTours_Automation_201_Logs -INFO - Same as billing address checkbox selected
+2018-11-13 11:24:42,539 - NewTours_Automation_201_Logs -INFO - Delivery address line 1 field is displayed
+2018-11-13 11:24:42,736 - NewTours_Automation_201_Logs -INFO - Delivery address line 1 entered
+2018-11-13 11:24:42,801 - NewTours_Automation_201_Logs -INFO - Delivery address line 2 field is displayed
+2018-11-13 11:24:43,125 - NewTours_Automation_201_Logs -INFO - Delivery address line 2 entered
+2018-11-13 11:24:43,172 - NewTours_Automation_201_Logs -INFO - Delivery city field is displayed
+2018-11-13 11:24:43,324 - NewTours_Automation_201_Logs -INFO - Delivery city is entered
+2018-11-13 11:24:43,371 - NewTours_Automation_201_Logs -INFO - Delivery state  field is displayed
+2018-11-13 11:24:43,548 - NewTours_Automation_201_Logs -INFO - Delivery state is entered
+2018-11-13 11:24:43,603 - NewTours_Automation_201_Logs -INFO - Delivey postal code field is displayed
+2018-11-13 11:24:43,747 - NewTours_Automation_201_Logs -INFO - Delivery postal code is entered
+2018-11-13 11:24:43,789 - NewTours_Automation_201_Logs -INFO - Delivery country dropdown is displayed
+2018-11-13 11:24:43,914 - NewTours_Automation_201_Logs -INFO - Delivery country is selected
+2018-11-13 11:24:43,917 - NewTours_Automation_201_Logs -INFO - Alert is present
+2018-11-13 11:24:43,923 - NewTours_Automation_201_Logs -INFO - Alert message: You have chosen a mailing location outside of the United States and its territories. An additional charge of $6.5 will be added as mailing charge.
+2018-11-13 11:24:43,996 - NewTours_Automation_201_Logs -INFO - Secure purchase button is displayed
+2018-11-13 11:24:44,019 - NewTours_Automation_201_Logs -INFO - Secure purchase button is clickable
+2018-11-13 11:24:45,329 - NewTours_Automation_201_Logs -INFO - Secure purchase button is clicked
+2018-11-13 11:24:45,751 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-11-13 11:24:46,116 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-11-13 11:24:46,116 - NewTours_Automation_201_Logs -INFO - Screenshot captured in Extent Report
+2018-11-13 11:24:46,194 - NewTours_Automation_201_Logs -INFO - Logout button is displayed
+2018-11-13 11:24:46,225 - NewTours_Automation_201_Logs -INFO - Logout button is clickable
+2018-11-13 11:24:47,215 - NewTours_Automation_201_Logs -INFO - Logout button is clicked
+2018-11-13 11:24:47,608 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-11-13 11:24:47,609 - NewTours_Automation_201_Logs -INFO - One Way Trip TestCase Passed
+2018-11-13 11:24:47,626 - NewTours_Automation_201_Logs -INFO - Starting Two Way Trip TestCase
+2018-11-13 11:24:47,754 - NewTours_Automation_201_Logs -INFO - Username field is displayed
+2018-11-13 11:24:47,850 - NewTours_Automation_201_Logs -INFO - Username is entered
+2018-11-13 11:24:47,904 - NewTours_Automation_201_Logs -INFO - Password field is displayed
+2018-11-13 11:24:47,994 - NewTours_Automation_201_Logs -INFO - Password is entered
+2018-11-13 11:24:48,044 - NewTours_Automation_201_Logs -INFO - Submit button is displayed
+2018-11-13 11:24:48,076 - NewTours_Automation_201_Logs -INFO - Submit button is clickable
+2018-11-13 11:24:49,623 - NewTours_Automation_201_Logs -INFO - Submit button is clicked
+2018-11-13 11:24:49,631 - NewTours_Automation_201_Logs -ERROR - Sign in with wrong credentials expected [true] but found [false]
+2018-11-13 11:24:50,045 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-11-13 11:24:50,045 - NewTours_Automation_201_Logs -INFO - Screenshot captured in Extent Report
+2018-11-13 11:24:50,062 - NewTours_Automation_201_Logs -INFO - Closing browser
+2018-11-13 11:24:50,839 - NewTours_Automation_201_Logs -INFO - Browser Closed
+2018-11-13 12:01:22,498 - NewTours_Automation_201_Logs -INFO - Starting browser
+2018-11-13 12:01:29,112 - NewTours_Automation_201_Logs -INFO - Browser started
+2018-11-13 12:02:36,329 - NewTours_Automation_201_Logs -INFO - Url entered
+2018-11-13 12:02:37,447 - NewTours_Automation_201_Logs -INFO - Starting Register TestCase
+2018-11-13 12:02:44,684 - NewTours_Automation_201_Logs -ERROR - The Webelement could not be loaded in the specified time
+2018-11-13 12:02:48,789 - NewTours_Automation_201_Logs -INFO - Starting Register TestCase
+2018-11-13 12:02:53,443 - NewTours_Automation_201_Logs -ERROR - The Webelement could not be loaded in the specified time
+2018-11-13 12:02:57,652 - NewTours_Automation_201_Logs -INFO - Starting Sign In TestCase
+2018-11-13 12:03:01,827 - NewTours_Automation_201_Logs -ERROR - chrome not reachable
+  (Session info: chrome=70.0.3538.102)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'A2ML27068', ip: '172.23.29.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.38.552522 (437e6fbedfa876..., userDataDir: C:\Users\M1044429\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.102, webStorageEnabled: true}
+Session ID: 767eff6664b40eeb8bd1d903d72997d0
+2018-11-13 12:03:05,862 - NewTours_Automation_201_Logs -INFO - Starting Sign In TestCase
+2018-11-13 12:03:10,147 - NewTours_Automation_201_Logs -ERROR - chrome not reachable
+  (Session info: chrome=70.0.3538.102)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'A2ML27068', ip: '172.23.29.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.38.552522 (437e6fbedfa876..., userDataDir: C:\Users\M1044429\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.102, webStorageEnabled: true}
+Session ID: 767eff6664b40eeb8bd1d903d72997d0
+2018-11-13 12:03:14,292 - NewTours_Automation_201_Logs -INFO - Starting One Way Trip TestCase
+2018-11-13 12:03:18,435 - NewTours_Automation_201_Logs -ERROR - Unhandled Exception: chrome not reachable
+  (Session info: chrome=70.0.3538.102)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'A2ML27068', ip: '172.23.29.106', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.38.552522 (437e6fbedfa876..., userDataDir: C:\Users\M1044429\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.102, webStorageEnabled: true}
+Session ID: 767eff6664b40eeb8bd1d903d72997d0
+2018-12-12 15:22:00,933 - NewTours_Automation_201_Logs -INFO - Starting browser
+2018-12-12 15:22:15,028 - NewTours_Automation_201_Logs -INFO - Browser started
+2018-12-12 15:22:21,670 - NewTours_Automation_201_Logs -INFO - Url entered
+2018-12-12 15:22:25,602 - NewTours_Automation_201_Logs -INFO - Starting Register TestCase
+2018-12-12 15:22:26,602 - NewTours_Automation_201_Logs -INFO - Register Link is displayed
+2018-12-12 15:22:26,742 - NewTours_Automation_201_Logs -INFO - Register link is clickable
+2018-12-12 15:22:29,317 - NewTours_Automation_201_Logs -INFO - Register Link is clicked
+2018-12-12 15:22:29,397 - NewTours_Automation_201_Logs -INFO - Firstname field is displayed
+2018-12-12 15:22:29,586 - NewTours_Automation_201_Logs -INFO - Firstname is entered
+2018-12-12 15:22:29,654 - NewTours_Automation_201_Logs -INFO - Lastname field is displayed
+2018-12-12 15:22:29,753 - NewTours_Automation_201_Logs -INFO - Lastname is entered
+2018-12-12 15:22:29,825 - NewTours_Automation_201_Logs -INFO - Phone number field is displayed
+2018-12-12 15:22:30,019 - NewTours_Automation_201_Logs -INFO - Phone number is enetered
+2018-12-12 15:22:30,100 - NewTours_Automation_201_Logs -INFO - Email field is displayed
+2018-12-12 15:22:30,316 - NewTours_Automation_201_Logs -INFO - Email is entered
+2018-12-12 15:22:30,394 - NewTours_Automation_201_Logs -INFO - Adderss Line 1 field is displayed
+2018-12-12 15:22:30,578 - NewTours_Automation_201_Logs -INFO - Address Line 1 is entered
+2018-12-12 15:22:30,654 - NewTours_Automation_201_Logs -INFO - Address Line 2 field is displayed
+2018-12-12 15:22:30,830 - NewTours_Automation_201_Logs -INFO - Address Line 2 is entered
+2018-12-12 15:22:30,892 - NewTours_Automation_201_Logs -INFO - City field is displayed
+2018-12-12 15:22:31,013 - NewTours_Automation_201_Logs -INFO - City is entered
+2018-12-12 15:22:31,077 - NewTours_Automation_201_Logs -INFO - State field is displayed
+2018-12-12 15:22:31,232 - NewTours_Automation_201_Logs -INFO - State is entered
+2018-12-12 15:22:31,309 - NewTours_Automation_201_Logs -INFO - Postal code field is present
+2018-12-12 15:22:31,309 - NewTours_Automation_201_Logs -INFO - Postal code is entered
+2018-12-12 15:22:31,410 - NewTours_Automation_201_Logs -INFO - Country dropdown is displayed
+2018-12-12 15:22:31,806 - NewTours_Automation_201_Logs -INFO - Country selected from dropdown
+2018-12-12 15:22:31,877 - NewTours_Automation_201_Logs -INFO - Username field is displayed
+2018-12-12 15:22:32,005 - NewTours_Automation_201_Logs -INFO - Username is entered
+2018-12-12 15:22:32,082 - NewTours_Automation_201_Logs -INFO - Password field is displayed
+2018-12-12 15:22:32,241 - NewTours_Automation_201_Logs -INFO - Password is entered
+2018-12-12 15:22:32,315 - NewTours_Automation_201_Logs -INFO - Confirm password field is displayed
+2018-12-12 15:22:32,446 - NewTours_Automation_201_Logs -INFO - Password re-entered in confirm password field
+2018-12-12 15:22:32,513 - NewTours_Automation_201_Logs -INFO - Submit button is displayed
+2018-12-12 15:22:32,554 - NewTours_Automation_201_Logs -INFO - Submit button is clickable
+2018-12-12 15:23:25,435 - NewTours_Automation_201_Logs -INFO - Submit button is clicked
+2018-12-12 15:23:26,071 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-12-12 15:23:26,553 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-12-12 15:23:26,556 - NewTours_Automation_201_Logs -INFO - Screenshot captured in Extent Report
+2018-12-12 15:23:26,685 - NewTours_Automation_201_Logs -INFO - Sign in Link is displayed
+2018-12-12 15:23:26,773 - NewTours_Automation_201_Logs -INFO - Sign in Link is clickable
+2018-12-12 15:23:29,816 - NewTours_Automation_201_Logs -INFO - Sign in Link is clicked
+2018-12-12 15:23:30,196 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-12-12 15:23:30,197 - NewTours_Automation_201_Logs -INFO - Registration Testcase Passed
+2018-12-12 15:23:30,202 - NewTours_Automation_201_Logs -INFO - Starting Register TestCase
+2018-12-12 15:23:30,801 - NewTours_Automation_201_Logs -INFO - Register Link is displayed
+2018-12-12 15:23:30,832 - NewTours_Automation_201_Logs -INFO - Register link is clickable
+2018-12-12 15:23:38,343 - NewTours_Automation_201_Logs -INFO - Register Link is clicked
+2018-12-12 15:23:38,439 - NewTours_Automation_201_Logs -INFO - Firstname field is displayed
+2018-12-12 15:23:38,572 - NewTours_Automation_201_Logs -INFO - Firstname is entered
+2018-12-12 15:23:38,670 - NewTours_Automation_201_Logs -INFO - Lastname field is displayed
+2018-12-12 15:23:38,770 - NewTours_Automation_201_Logs -INFO - Lastname is entered
+2018-12-12 15:23:38,844 - NewTours_Automation_201_Logs -INFO - Phone number field is displayed
+2018-12-12 15:23:39,035 - NewTours_Automation_201_Logs -INFO - Phone number is enetered
+2018-12-12 15:23:39,119 - NewTours_Automation_201_Logs -INFO - Email field is displayed
+2018-12-12 15:23:39,384 - NewTours_Automation_201_Logs -INFO - Email is entered
+2018-12-12 15:23:39,472 - NewTours_Automation_201_Logs -INFO - Adderss Line 1 field is displayed
+2018-12-12 15:23:39,702 - NewTours_Automation_201_Logs -INFO - Address Line 1 is entered
+2018-12-12 15:23:39,782 - NewTours_Automation_201_Logs -INFO - Address Line 2 field is displayed
+2018-12-12 15:23:39,996 - NewTours_Automation_201_Logs -INFO - Address Line 2 is entered
+2018-12-12 15:23:40,082 - NewTours_Automation_201_Logs -INFO - City field is displayed
+2018-12-12 15:23:40,230 - NewTours_Automation_201_Logs -INFO - City is entered
+2018-12-12 15:23:40,319 - NewTours_Automation_201_Logs -INFO - State field is displayed
+2018-12-12 15:23:40,485 - NewTours_Automation_201_Logs -INFO - State is entered
+2018-12-12 15:23:40,572 - NewTours_Automation_201_Logs -INFO - Postal code field is present
+2018-12-12 15:23:40,714 - NewTours_Automation_201_Logs -INFO - Postal code is entered
+2018-12-12 15:23:40,800 - NewTours_Automation_201_Logs -INFO - Country dropdown is displayed
+2018-12-12 15:23:41,012 - NewTours_Automation_201_Logs -INFO - Country selected from dropdown
+2018-12-12 15:23:41,113 - NewTours_Automation_201_Logs -INFO - Username field is displayed
+2018-12-12 15:23:41,267 - NewTours_Automation_201_Logs -INFO - Username is entered
+2018-12-12 15:23:41,347 - NewTours_Automation_201_Logs -INFO - Password field is displayed
+2018-12-12 15:23:41,471 - NewTours_Automation_201_Logs -INFO - Password is entered
+2018-12-12 15:23:41,591 - NewTours_Automation_201_Logs -INFO - Confirm password field is displayed
+2018-12-12 15:23:41,761 - NewTours_Automation_201_Logs -INFO - Password re-entered in confirm password field
+2018-12-12 15:23:41,844 - NewTours_Automation_201_Logs -INFO - Submit button is displayed
+2018-12-12 15:23:41,881 - NewTours_Automation_201_Logs -INFO - Submit button is clickable
+2018-12-12 15:23:58,777 - NewTours_Automation_201_Logs -INFO - Submit button is clicked
+2018-12-12 15:23:59,141 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-12-12 15:23:59,615 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-12-12 15:23:59,615 - NewTours_Automation_201_Logs -INFO - Screenshot captured in Extent Report
+2018-12-12 15:23:59,709 - NewTours_Automation_201_Logs -INFO - Sign in Link is displayed
+2018-12-12 15:23:59,741 - NewTours_Automation_201_Logs -INFO - Sign in Link is clickable
+2018-12-12 15:24:03,273 - NewTours_Automation_201_Logs -INFO - Sign in Link is clicked
+2018-12-12 15:24:03,625 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-12-12 15:24:03,625 - NewTours_Automation_201_Logs -INFO - Registration Testcase Passed
+2018-12-12 15:24:03,753 - NewTours_Automation_201_Logs -INFO - Starting Sign In TestCase
+2018-12-12 15:24:04,311 - NewTours_Automation_201_Logs -INFO - Username field is displayed
+2018-12-12 15:24:04,554 - NewTours_Automation_201_Logs -INFO - Username is entered
+2018-12-12 15:24:04,665 - NewTours_Automation_201_Logs -INFO - Password field is displayed
+2018-12-12 15:24:04,763 - NewTours_Automation_201_Logs -INFO - Password is entered
+2018-12-12 15:24:04,845 - NewTours_Automation_201_Logs -INFO - Submit button is displayed
+2018-12-12 15:24:04,870 - NewTours_Automation_201_Logs -INFO - Submit button is clickable
+2018-12-12 15:24:12,415 - NewTours_Automation_201_Logs -INFO - Submit button is clicked
+2018-12-12 15:24:12,441 - NewTours_Automation_201_Logs -ERROR - Sign in failed expected [true] but found [false]
+2018-12-12 15:24:12,919 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-12-12 15:24:12,920 - NewTours_Automation_201_Logs -INFO - Screenshot captured in Extent Report
+2018-12-12 15:24:12,920 - NewTours_Automation_201_Logs -INFO - Starting Sign In TestCase
+2018-12-12 15:24:13,201 - NewTours_Automation_201_Logs -INFO - Username field is displayed
+2018-12-12 15:24:13,303 - NewTours_Automation_201_Logs -INFO - Username is entered
+2018-12-12 15:24:13,371 - NewTours_Automation_201_Logs -INFO - Password field is displayed
+2018-12-12 15:24:13,481 - NewTours_Automation_201_Logs -INFO - Password is entered
+2018-12-12 15:24:13,549 - NewTours_Automation_201_Logs -INFO - Submit button is displayed
+2018-12-12 15:24:13,590 - NewTours_Automation_201_Logs -INFO - Submit button is clickable
+2018-12-12 15:24:52,827 - NewTours_Automation_201_Logs -INFO - Submit button is clicked
+2018-12-12 15:24:52,846 - NewTours_Automation_201_Logs -INFO - Sign In Successful
+2018-12-12 15:24:53,232 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-12-12 15:24:53,560 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-12-12 15:24:53,561 - NewTours_Automation_201_Logs -INFO - Screenshot captured in Extent Report
+2018-12-12 15:24:53,643 - NewTours_Automation_201_Logs -INFO - Sign-off button is displayed
+2018-12-12 15:24:53,675 - NewTours_Automation_201_Logs -INFO - Sign-off button is clickable
+2018-12-12 15:24:58,316 - NewTours_Automation_201_Logs -INFO - Sign-off button is clicked
+2018-12-12 15:24:58,679 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-12-12 15:24:58,679 - NewTours_Automation_201_Logs -INFO - Sign in Testcase Passed
+2018-12-12 15:24:59,051 - NewTours_Automation_201_Logs -INFO - Starting One Way Trip TestCase
+2018-12-12 15:24:59,253 - NewTours_Automation_201_Logs -INFO - Username field is displayed
+2018-12-12 15:24:59,367 - NewTours_Automation_201_Logs -INFO - Username is entered
+2018-12-12 15:24:59,440 - NewTours_Automation_201_Logs -INFO - Password field is displayed
+2018-12-12 15:24:59,557 - NewTours_Automation_201_Logs -INFO - Password is entered
+2018-12-12 15:24:59,640 - NewTours_Automation_201_Logs -INFO - Submit button is displayed
+2018-12-12 15:24:59,671 - NewTours_Automation_201_Logs -INFO - Submit button is clickable
+2018-12-12 15:25:11,449 - NewTours_Automation_201_Logs -INFO - Submit button is clicked
+2018-12-12 15:25:11,456 - NewTours_Automation_201_Logs -INFO - Sign In Successful
+2018-12-12 15:25:11,829 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-12-12 15:25:12,166 - NewTours_Automation_201_Logs -INFO - Oneway radio button is displayed
+2018-12-12 15:25:12,286 - NewTours_Automation_201_Logs -INFO - Oneway is selected
+2018-12-12 15:25:12,349 - NewTours_Automation_201_Logs -INFO - Passengers dropdown is displayed
+2018-12-12 15:25:12,534 - NewTours_Automation_201_Logs -INFO - Number of passengers selected
+2018-12-12 15:25:12,600 - NewTours_Automation_201_Logs -INFO - Departing city dropdown is displayed
+2018-12-12 15:25:12,777 - NewTours_Automation_201_Logs -INFO - Departing city is selected
+2018-12-12 15:25:12,853 - NewTours_Automation_201_Logs -INFO - Departing month dropdown is displayed
+2018-12-12 15:25:13,070 - NewTours_Automation_201_Logs -INFO - Departing month is selected
+2018-12-12 15:25:13,140 - NewTours_Automation_201_Logs -INFO - Departing day dropdown is displayed
+2018-12-12 15:25:13,263 - NewTours_Automation_201_Logs -INFO - Departing day is selected
+2018-12-12 15:25:13,318 - NewTours_Automation_201_Logs -INFO - Arriving city dropdown is displayed
+2018-12-12 15:25:13,598 - NewTours_Automation_201_Logs -INFO - Arriving city is selected
+2018-12-12 15:25:13,883 - NewTours_Automation_201_Logs -INFO - All service class radio buttons are present
+2018-12-12 15:25:13,951 - NewTours_Automation_201_Logs -INFO - Service class is selected
+2018-12-12 15:25:14,008 - NewTours_Automation_201_Logs -INFO - Airline dropdown is displayed
+2018-12-12 15:25:14,127 - NewTours_Automation_201_Logs -INFO - Airline is selected
+2018-12-12 15:25:14,204 - NewTours_Automation_201_Logs -INFO - Continue button is displayed
+2018-12-12 15:25:14,240 - NewTours_Automation_201_Logs -INFO - Continue button is clickable
+2018-12-12 15:25:17,807 - NewTours_Automation_201_Logs -INFO - Continue button is clicked
+2018-12-12 15:25:18,270 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-12-12 15:25:18,933 - NewTours_Automation_201_Logs -INFO - All departing flights radio buttons are displayed
+2018-12-12 15:25:19,057 - NewTours_Automation_201_Logs -INFO - Departing flight selected
+2018-12-12 15:25:19,504 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-12-12 15:25:19,592 - NewTours_Automation_201_Logs -INFO - Confirm button is displayed
+2018-12-12 15:25:19,631 - NewTours_Automation_201_Logs -INFO - Confirm button is clickable
+2018-12-12 15:25:24,278 - NewTours_Automation_201_Logs -INFO - Confirm button is clicked
+2018-12-12 15:25:24,664 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-12-12 15:25:25,610 - NewTours_Automation_201_Logs -INFO - Total number of passengers: 3
+2018-12-12 15:25:25,662 - NewTours_Automation_201_Logs -INFO - Passenger 1 firstname field is displayed
+2018-12-12 15:25:25,919 - NewTours_Automation_201_Logs -INFO - Passenger 1 firstname is entered
+2018-12-12 15:25:25,995 - NewTours_Automation_201_Logs -INFO - Passenger 1 lastname field is displayed
+2018-12-12 15:25:26,256 - NewTours_Automation_201_Logs -INFO - Passenger 1 lastname is entered
+2018-12-12 15:25:26,363 - NewTours_Automation_201_Logs -INFO - Passenger 1 meal dropdown is displayed
+2018-12-12 15:25:26,560 - NewTours_Automation_201_Logs -INFO - Passenger 1 meal is selected
+2018-12-12 15:25:26,637 - NewTours_Automation_201_Logs -INFO - Passenger 2 firstname field is displayed
+2018-12-12 15:25:26,817 - NewTours_Automation_201_Logs -INFO - Passenger 2 firstname is entered
+2018-12-12 15:25:26,874 - NewTours_Automation_201_Logs -INFO - Passenger 2 lastname field is displayed
+2018-12-12 15:25:27,039 - NewTours_Automation_201_Logs -INFO - Passenger 2 lastname is entered
+2018-12-12 15:25:27,101 - NewTours_Automation_201_Logs -INFO - Passenger 2 meal dropdown is displayed
+2018-12-12 15:25:27,281 - NewTours_Automation_201_Logs -INFO - Passenger 2 meal is selected
+2018-12-12 15:25:27,383 - NewTours_Automation_201_Logs -INFO - Passenger 3 firstname field is displayed
+2018-12-12 15:25:27,684 - NewTours_Automation_201_Logs -INFO - Passenger 3 firstname is entered
+2018-12-12 15:25:27,798 - NewTours_Automation_201_Logs -INFO - Passenger 3 lastname field is displayed
+2018-12-12 15:25:27,948 - NewTours_Automation_201_Logs -INFO - Passenger 3 lastname is entered
+2018-12-12 15:25:28,023 - NewTours_Automation_201_Logs -INFO - Passenger 3 meal dropdown is displayed
+2018-12-12 15:25:28,024 - NewTours_Automation_201_Logs -INFO - Passenger 3 meal is selected
+2018-12-12 15:25:28,103 - NewTours_Automation_201_Logs -INFO - Credit card type dropdown is displayed
+2018-12-12 15:25:28,239 - NewTours_Automation_201_Logs -INFO - Credit card type is selected
+2018-12-12 15:25:28,302 - NewTours_Automation_201_Logs -INFO - Credit card number field is displayed
+2018-12-12 15:25:28,532 - NewTours_Automation_201_Logs -INFO - Credit card number is entered
+2018-12-12 15:25:28,600 - NewTours_Automation_201_Logs -INFO - Expiry month dropdown is displayed
+2018-12-12 15:25:28,884 - NewTours_Automation_201_Logs -INFO - Expiry month is selected
+2018-12-12 15:25:29,018 - NewTours_Automation_201_Logs -INFO - Expiry year dropdown is displayed
+2018-12-12 15:25:29,324 - NewTours_Automation_201_Logs -INFO - Expiry year is selected
+2018-12-12 15:25:29,416 - NewTours_Automation_201_Logs -INFO - Credit card firstname field is displayed
+2018-12-12 15:25:29,595 - NewTours_Automation_201_Logs -INFO - Credit card firstname is entered
+2018-12-12 15:25:29,717 - NewTours_Automation_201_Logs -INFO - Credit card middle name field is displayed
+2018-12-12 15:25:29,809 - NewTours_Automation_201_Logs -INFO - Credit card middle name is enetered
+2018-12-12 15:25:29,990 - NewTours_Automation_201_Logs -INFO - Credit card lastname field is displayed
+2018-12-12 15:25:30,198 - NewTours_Automation_201_Logs -INFO - Credit Card lastname is entered
+2018-12-12 15:25:30,290 - NewTours_Automation_201_Logs -INFO - Ticketless travel checkbox is displayed
+2018-12-12 15:25:30,417 - NewTours_Automation_201_Logs -INFO - Ticketless Travel is selected
+2018-12-12 15:25:30,514 - NewTours_Automation_201_Logs -INFO - Billing address line 1 field is displayed
+2018-12-12 15:25:30,904 - NewTours_Automation_201_Logs -INFO - Billing address line 1 is entered
+2018-12-12 15:25:30,981 - NewTours_Automation_201_Logs -INFO - Billing address line 2 field is displayed
+2018-12-12 15:25:31,200 - NewTours_Automation_201_Logs -INFO - Billing address line 2 is entered
+2018-12-12 15:25:31,271 - NewTours_Automation_201_Logs -INFO - Billing city field is displayed
+2018-12-12 15:25:31,515 - NewTours_Automation_201_Logs -INFO - Billing city is entered
+2018-12-12 15:25:31,626 - NewTours_Automation_201_Logs -INFO - Billing state field is displayed
+2018-12-12 15:25:31,860 - NewTours_Automation_201_Logs -INFO - Billing state is entered
+2018-12-12 15:25:31,925 - NewTours_Automation_201_Logs -INFO - Billing postal code is displayed
+2018-12-12 15:25:32,188 - NewTours_Automation_201_Logs -INFO - Billing postal code is entered
+2018-12-12 15:25:32,275 - NewTours_Automation_201_Logs -INFO - Billing country dropdown is displayed
+2018-12-12 15:25:32,455 - NewTours_Automation_201_Logs -INFO - Billing country is selected
+2018-12-12 15:25:32,561 - NewTours_Automation_201_Logs -INFO - Same as billing address checkbox is displayed
+2018-12-12 15:25:32,768 - NewTours_Automation_201_Logs -INFO - Same as billing address checkbox selected
+2018-12-12 15:25:32,846 - NewTours_Automation_201_Logs -INFO - Delivery address line 1 field is displayed
+2018-12-12 15:25:33,184 - NewTours_Automation_201_Logs -INFO - Delivery address line 1 entered
+2018-12-12 15:25:33,274 - NewTours_Automation_201_Logs -INFO - Delivery address line 2 field is displayed
+2018-12-12 15:25:33,608 - NewTours_Automation_201_Logs -INFO - Delivery address line 2 entered
+2018-12-12 15:25:33,688 - NewTours_Automation_201_Logs -INFO - Delivery city field is displayed
+2018-12-12 15:25:33,925 - NewTours_Automation_201_Logs -INFO - Delivery city is entered
+2018-12-12 15:25:34,001 - NewTours_Automation_201_Logs -INFO - Delivery state  field is displayed
+2018-12-12 15:25:34,254 - NewTours_Automation_201_Logs -INFO - Delivery state is entered
+2018-12-12 15:25:34,337 - NewTours_Automation_201_Logs -INFO - Delivey postal code field is displayed
+2018-12-12 15:25:34,518 - NewTours_Automation_201_Logs -INFO - Delivery postal code is entered
+2018-12-12 15:25:34,598 - NewTours_Automation_201_Logs -INFO - Delivery country dropdown is displayed
+2018-12-12 15:25:34,831 - NewTours_Automation_201_Logs -INFO - Delivery country is selected
+2018-12-12 15:25:34,843 - NewTours_Automation_201_Logs -INFO - Alert is present
+2018-12-12 15:25:34,853 - NewTours_Automation_201_Logs -INFO - Alert message: You have chosen a mailing location outside of the United States and its territories. An additional charge of $6.5 will be added as mailing charge.
+2018-12-12 15:25:35,010 - NewTours_Automation_201_Logs -INFO - Secure purchase button is displayed
+2018-12-12 15:25:35,042 - NewTours_Automation_201_Logs -INFO - Secure purchase button is clickable
+2018-12-12 15:25:41,893 - NewTours_Automation_201_Logs -INFO - Secure purchase button is clicked
+2018-12-12 15:25:42,315 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-12-12 15:25:42,708 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-12-12 15:25:42,708 - NewTours_Automation_201_Logs -INFO - Screenshot captured in Extent Report
+2018-12-12 15:25:42,809 - NewTours_Automation_201_Logs -INFO - Logout button is displayed
+2018-12-12 15:25:42,843 - NewTours_Automation_201_Logs -INFO - Logout button is clickable
+2018-12-12 15:25:47,380 - NewTours_Automation_201_Logs -INFO - Logout button is clicked
+2018-12-12 15:25:47,762 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-12-12 15:25:47,762 - NewTours_Automation_201_Logs -INFO - One Way Trip TestCase Passed
+2018-12-12 15:25:47,822 - NewTours_Automation_201_Logs -INFO - Starting Two Way Trip TestCase
+2018-12-12 15:25:48,067 - NewTours_Automation_201_Logs -INFO - Username field is displayed
+2018-12-12 15:25:48,186 - NewTours_Automation_201_Logs -INFO - Username is entered
+2018-12-12 15:25:48,261 - NewTours_Automation_201_Logs -INFO - Password field is displayed
+2018-12-12 15:25:48,437 - NewTours_Automation_201_Logs -INFO - Password is entered
+2018-12-12 15:25:48,514 - NewTours_Automation_201_Logs -INFO - Submit button is displayed
+2018-12-12 15:25:48,550 - NewTours_Automation_201_Logs -INFO - Submit button is clickable
+2018-12-12 15:26:01,290 - NewTours_Automation_201_Logs -INFO - Submit button is clicked
+2018-12-12 15:26:01,318 - NewTours_Automation_201_Logs -INFO - Sign In Successful
+2018-12-12 15:26:01,800 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-12-12 15:26:02,114 - NewTours_Automation_201_Logs -INFO - Twoway radio button is displayed
+2018-12-12 15:26:02,150 - NewTours_Automation_201_Logs -INFO - Twoway radio button is clickable
+2018-12-12 15:26:02,273 - NewTours_Automation_201_Logs -INFO - Two way radio button is selected
+2018-12-12 15:26:02,351 - NewTours_Automation_201_Logs -INFO - Passengers dropdown is displayed
+2018-12-12 15:26:02,541 - NewTours_Automation_201_Logs -INFO - Number of passengers selected
+2018-12-12 15:26:02,640 - NewTours_Automation_201_Logs -INFO - Departing city dropdown is displayed
+2018-12-12 15:26:02,982 - NewTours_Automation_201_Logs -INFO - Departing city is clicked
+2018-12-12 15:26:03,080 - NewTours_Automation_201_Logs -INFO - Departing month dropdown is displayed
+2018-12-12 15:26:03,261 - NewTours_Automation_201_Logs -INFO - Departing month is selected
+2018-12-12 15:26:03,314 - NewTours_Automation_201_Logs -INFO - Departing day dropdown is displayed
+2018-12-12 15:26:03,472 - NewTours_Automation_201_Logs -INFO - Departing day is selected
+2018-12-12 15:26:03,546 - NewTours_Automation_201_Logs -INFO - Arriving city dropdown is displayed
+2018-12-12 15:26:03,748 - NewTours_Automation_201_Logs -INFO - Arriving city is selected
+2018-12-12 15:26:03,842 - NewTours_Automation_201_Logs -INFO - Returning month dropdown is displayed
+2018-12-12 15:26:04,081 - NewTours_Automation_201_Logs -INFO - Returning month is selected
+2018-12-12 15:26:04,243 - NewTours_Automation_201_Logs -INFO - Returning day dropdown is displayed
+2018-12-12 15:26:04,476 - NewTours_Automation_201_Logs -INFO - Returning day is selected
+2018-12-12 15:26:04,727 - NewTours_Automation_201_Logs -INFO - All service class radio buttons are present
+2018-12-12 15:26:04,810 - NewTours_Automation_201_Logs -INFO - Service class is selected
+2018-12-12 15:26:04,890 - NewTours_Automation_201_Logs -INFO - Airline dropdown is displayed
+2018-12-12 15:26:05,028 - NewTours_Automation_201_Logs -INFO - Airline is selected
+2018-12-12 15:26:05,089 - NewTours_Automation_201_Logs -INFO - Continue button is displayed
+2018-12-12 15:26:05,125 - NewTours_Automation_201_Logs -INFO - Continue button is clickable
+2018-12-12 15:26:08,151 - NewTours_Automation_201_Logs -INFO - Continue button is clicked
+2018-12-12 15:26:08,584 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-12-12 15:26:09,065 - NewTours_Automation_201_Logs -INFO - All departing flights radio buttons are displayed
+2018-12-12 15:26:09,163 - NewTours_Automation_201_Logs -INFO - Departing flight selected
+2018-12-12 15:26:09,444 - NewTours_Automation_201_Logs -INFO - All returning flights radio buttons are displayed
+2018-12-12 15:26:09,593 - NewTours_Automation_201_Logs -INFO - Returning flight selected
+2018-12-12 15:26:09,995 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-12-12 15:26:10,073 - NewTours_Automation_201_Logs -INFO - Confirm button is displayed
+2018-12-12 15:26:10,106 - NewTours_Automation_201_Logs -INFO - Confirm button is clickable
+2018-12-12 15:26:16,558 - NewTours_Automation_201_Logs -INFO - Confirm button is clicked
+2018-12-12 15:26:17,051 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-12-12 15:26:17,835 - NewTours_Automation_201_Logs -INFO - Total number of passengers: 2
+2018-12-12 15:26:17,937 - NewTours_Automation_201_Logs -INFO - Passenger 1 firstname field is displayed
+2018-12-12 15:26:18,204 - NewTours_Automation_201_Logs -INFO - Passenger 1 firstname is entered
+2018-12-12 15:26:18,296 - NewTours_Automation_201_Logs -INFO - Passenger 1 lastname field is displayed
+2018-12-12 15:26:18,512 - NewTours_Automation_201_Logs -INFO - Passenger 1 lastname is entered
+2018-12-12 15:26:18,589 - NewTours_Automation_201_Logs -INFO - Passenger 1 meal dropdown is displayed
+2018-12-12 15:26:18,774 - NewTours_Automation_201_Logs -INFO - Passenger 1 meal is selected
+2018-12-12 15:26:18,912 - NewTours_Automation_201_Logs -INFO - Passenger 2 firstname field is displayed
+2018-12-12 15:26:19,271 - NewTours_Automation_201_Logs -INFO - Passenger 2 firstname is entered
+2018-12-12 15:26:19,347 - NewTours_Automation_201_Logs -INFO - Passenger 2 lastname field is displayed
+2018-12-12 15:26:19,531 - NewTours_Automation_201_Logs -INFO - Passenger 2 lastname is entered
+2018-12-12 15:26:19,605 - NewTours_Automation_201_Logs -INFO - Passenger 2 meal dropdown is displayed
+2018-12-12 15:26:19,606 - NewTours_Automation_201_Logs -INFO - Passenger 2 meal is selected
+2018-12-12 15:26:19,701 - NewTours_Automation_201_Logs -INFO - Credit card type dropdown is displayed
+2018-12-12 15:26:19,889 - NewTours_Automation_201_Logs -INFO - Credit card type is selected
+2018-12-12 15:26:19,946 - NewTours_Automation_201_Logs -INFO - Credit card number field is displayed
+2018-12-12 15:26:20,160 - NewTours_Automation_201_Logs -INFO - Credit card number is entered
+2018-12-12 15:26:20,217 - NewTours_Automation_201_Logs -INFO - Expiry month dropdown is displayed
+2018-12-12 15:26:20,379 - NewTours_Automation_201_Logs -INFO - Expiry month is selected
+2018-12-12 15:26:20,476 - NewTours_Automation_201_Logs -INFO - Expiry year dropdown is displayed
+2018-12-12 15:26:20,830 - NewTours_Automation_201_Logs -INFO - Expiry year is selected
+2018-12-12 15:26:20,949 - NewTours_Automation_201_Logs -INFO - Credit card firstname field is displayed
+2018-12-12 15:26:21,203 - NewTours_Automation_201_Logs -INFO - Credit card firstname is entered
+2018-12-12 15:26:21,324 - NewTours_Automation_201_Logs -INFO - Credit card middle name field is displayed
+2018-12-12 15:26:21,418 - NewTours_Automation_201_Logs -INFO - Credit card middle name is enetered
+2018-12-12 15:26:21,511 - NewTours_Automation_201_Logs -INFO - Credit card lastname field is displayed
+2018-12-12 15:26:21,659 - NewTours_Automation_201_Logs -INFO - Credit Card lastname is entered
+2018-12-12 15:26:21,741 - NewTours_Automation_201_Logs -INFO - Ticketless travel checkbox is displayed
+2018-12-12 15:26:21,859 - NewTours_Automation_201_Logs -INFO - Ticketless Travel is selected
+2018-12-12 15:26:21,939 - NewTours_Automation_201_Logs -INFO - Billing address line 1 field is displayed
+2018-12-12 15:26:22,213 - NewTours_Automation_201_Logs -INFO - Billing address line 1 is entered
+2018-12-12 15:26:22,292 - NewTours_Automation_201_Logs -INFO - Billing address line 2 field is displayed
+2018-12-12 15:26:22,558 - NewTours_Automation_201_Logs -INFO - Billing address line 2 is entered
+2018-12-12 15:26:22,620 - NewTours_Automation_201_Logs -INFO - Billing city field is displayed
+2018-12-12 15:26:22,795 - NewTours_Automation_201_Logs -INFO - Billing city is entered
+2018-12-12 15:26:22,851 - NewTours_Automation_201_Logs -INFO - Billing state field is displayed
+2018-12-12 15:26:23,052 - NewTours_Automation_201_Logs -INFO - Billing state is entered
+2018-12-12 15:26:23,119 - NewTours_Automation_201_Logs -INFO - Billing postal code is displayed
+2018-12-12 15:26:23,296 - NewTours_Automation_201_Logs -INFO - Billing postal code is entered
+2018-12-12 15:26:23,368 - NewTours_Automation_201_Logs -INFO - Billing country dropdown is displayed
+2018-12-12 15:26:23,517 - NewTours_Automation_201_Logs -INFO - Billing country is selected
+2018-12-12 15:26:23,595 - NewTours_Automation_201_Logs -INFO - Same as billing address checkbox is displayed
+2018-12-12 15:26:23,802 - NewTours_Automation_201_Logs -INFO - Same as billing address checkbox selected
+2018-12-12 15:26:23,867 - NewTours_Automation_201_Logs -INFO - Delivery address line 1 field is displayed
+2018-12-12 15:26:24,152 - NewTours_Automation_201_Logs -INFO - Delivery address line 1 entered
+2018-12-12 15:26:24,214 - NewTours_Automation_201_Logs -INFO - Delivery address line 2 field is displayed
+2018-12-12 15:26:24,582 - NewTours_Automation_201_Logs -INFO - Delivery address line 2 entered
+2018-12-12 15:26:24,673 - NewTours_Automation_201_Logs -INFO - Delivery city field is displayed
+2018-12-12 15:26:24,901 - NewTours_Automation_201_Logs -INFO - Delivery city is entered
+2018-12-12 15:26:24,963 - NewTours_Automation_201_Logs -INFO - Delivery state  field is displayed
+2018-12-12 15:26:25,194 - NewTours_Automation_201_Logs -INFO - Delivery state is entered
+2018-12-12 15:26:25,262 - NewTours_Automation_201_Logs -INFO - Delivey postal code field is displayed
+2018-12-12 15:26:25,425 - NewTours_Automation_201_Logs -INFO - Delivery postal code is entered
+2018-12-12 15:26:25,496 - NewTours_Automation_201_Logs -INFO - Delivery country dropdown is displayed
+2018-12-12 15:26:25,688 - NewTours_Automation_201_Logs -INFO - Delivery country is selected
+2018-12-12 15:26:25,690 - NewTours_Automation_201_Logs -INFO - Alert is present
+2018-12-12 15:26:25,696 - NewTours_Automation_201_Logs -INFO - Alert message: You have chosen a mailing location outside of the United States and its territories. An additional charge of $6.5 will be added as mailing charge.
+2018-12-12 15:26:25,785 - NewTours_Automation_201_Logs -INFO - Secure purchase button is displayed
+2018-12-12 15:26:25,811 - NewTours_Automation_201_Logs -INFO - Secure purchase button is clickable
+2018-12-12 15:26:29,570 - NewTours_Automation_201_Logs -INFO - Secure purchase button is clicked
+2018-12-12 15:26:30,095 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-12-12 15:26:30,488 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-12-12 15:26:30,489 - NewTours_Automation_201_Logs -INFO - Screenshot captured in Extent Report
+2018-12-12 15:26:30,564 - NewTours_Automation_201_Logs -INFO - Logout button is displayed
+2018-12-12 15:26:30,584 - NewTours_Automation_201_Logs -INFO - Logout button is clickable
+2018-12-12 15:26:34,690 - NewTours_Automation_201_Logs -INFO - Logout button is clicked
+2018-12-12 15:26:35,090 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2018-12-12 15:26:35,090 - NewTours_Automation_201_Logs -INFO - Two Way Trip TestCase Passed
+2018-12-12 15:26:35,148 - NewTours_Automation_201_Logs -INFO - Closing browser
+2018-12-12 15:26:36,090 - NewTours_Automation_201_Logs -INFO - Browser Closed
+2019-08-26 10:29:07,719 - NewTours_Automation_201_Logs -INFO - Starting browser
+2019-08-26 10:29:31,697 - NewTours_Automation_201_Logs -INFO - Browser started
+2019-08-26 10:29:38,511 - NewTours_Automation_201_Logs -INFO - Url entered
+2019-08-26 10:29:40,811 - NewTours_Automation_201_Logs -INFO - Starting Register TestCase
+2019-08-26 10:29:41,911 - NewTours_Automation_201_Logs -INFO - Register Link is displayed
+2019-08-26 10:29:41,953 - NewTours_Automation_201_Logs -INFO - Register link is clickable
+2019-08-26 10:29:44,153 - NewTours_Automation_201_Logs -INFO - Register Link is clicked
+2019-08-26 10:29:44,259 - NewTours_Automation_201_Logs -INFO - Firstname field is displayed
+2019-08-26 10:29:44,438 - NewTours_Automation_201_Logs -INFO - Firstname is entered
+2019-08-26 10:29:44,521 - NewTours_Automation_201_Logs -INFO - Lastname field is displayed
+2019-08-26 10:29:44,631 - NewTours_Automation_201_Logs -INFO - Lastname is entered
+2019-08-26 10:29:44,744 - NewTours_Automation_201_Logs -INFO - Phone number field is displayed
+2019-08-26 10:29:44,936 - NewTours_Automation_201_Logs -INFO - Phone number is enetered
+2019-08-26 10:29:45,011 - NewTours_Automation_201_Logs -INFO - Email field is displayed
+2019-08-26 10:29:45,221 - NewTours_Automation_201_Logs -INFO - Email is entered
+2019-08-26 10:29:45,301 - NewTours_Automation_201_Logs -INFO - Adderss Line 1 field is displayed
+2019-08-26 10:29:45,526 - NewTours_Automation_201_Logs -INFO - Address Line 1 is entered
+2019-08-26 10:29:45,587 - NewTours_Automation_201_Logs -INFO - Address Line 2 field is displayed
+2019-08-26 10:29:45,759 - NewTours_Automation_201_Logs -INFO - Address Line 2 is entered
+2019-08-26 10:29:45,816 - NewTours_Automation_201_Logs -INFO - City field is displayed
+2019-08-26 10:29:45,955 - NewTours_Automation_201_Logs -INFO - City is entered
+2019-08-26 10:29:46,015 - NewTours_Automation_201_Logs -INFO - State field is displayed
+2019-08-26 10:29:46,120 - NewTours_Automation_201_Logs -INFO - State is entered
+2019-08-26 10:29:46,182 - NewTours_Automation_201_Logs -INFO - Postal code field is present
+2019-08-26 10:29:46,182 - NewTours_Automation_201_Logs -INFO - Postal code is entered
+2019-08-26 10:29:46,243 - NewTours_Automation_201_Logs -INFO - Country dropdown is displayed
+2019-08-26 10:29:46,502 - NewTours_Automation_201_Logs -INFO - Country selected from dropdown
+2019-08-26 10:29:46,572 - NewTours_Automation_201_Logs -INFO - Username field is displayed
+2019-08-26 10:29:46,699 - NewTours_Automation_201_Logs -INFO - Username is entered
+2019-08-26 10:29:46,768 - NewTours_Automation_201_Logs -INFO - Password field is displayed
+2019-08-26 10:29:46,879 - NewTours_Automation_201_Logs -INFO - Password is entered
+2019-08-26 10:29:46,974 - NewTours_Automation_201_Logs -INFO - Confirm password field is displayed
+2019-08-26 10:29:47,120 - NewTours_Automation_201_Logs -INFO - Password re-entered in confirm password field
+2019-08-26 10:29:47,212 - NewTours_Automation_201_Logs -INFO - Submit button is displayed
+2019-08-26 10:29:47,240 - NewTours_Automation_201_Logs -INFO - Submit button is clickable
+2019-08-26 10:30:00,128 - NewTours_Automation_201_Logs -INFO - Submit button is clicked
+2019-08-26 10:30:01,145 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2019-08-26 10:30:01,712 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2019-08-26 10:30:01,714 - NewTours_Automation_201_Logs -INFO - Screenshot captured in Extent Report
+2019-08-26 10:30:01,772 - NewTours_Automation_201_Logs -INFO - Sign in Link is displayed
+2019-08-26 10:30:01,794 - NewTours_Automation_201_Logs -INFO - Sign in Link is clickable
+2019-08-26 10:30:04,559 - NewTours_Automation_201_Logs -INFO - Sign in Link is clicked
+2019-08-26 10:30:04,928 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2019-08-26 10:30:04,928 - NewTours_Automation_201_Logs -INFO - Registration Testcase Passed
+2019-08-26 10:30:04,934 - NewTours_Automation_201_Logs -INFO - Starting Register TestCase
+2019-08-26 10:30:05,421 - NewTours_Automation_201_Logs -INFO - Register Link is displayed
+2019-08-26 10:30:05,445 - NewTours_Automation_201_Logs -INFO - Register link is clickable
+2019-08-26 10:30:06,501 - NewTours_Automation_201_Logs -INFO - Register Link is clicked
+2019-08-26 10:30:06,582 - NewTours_Automation_201_Logs -INFO - Firstname field is displayed
+2019-08-26 10:30:06,709 - NewTours_Automation_201_Logs -INFO - Firstname is entered
+2019-08-26 10:30:06,781 - NewTours_Automation_201_Logs -INFO - Lastname field is displayed
+2019-08-26 10:30:06,876 - NewTours_Automation_201_Logs -INFO - Lastname is entered
+2019-08-26 10:30:06,929 - NewTours_Automation_201_Logs -INFO - Phone number field is displayed
+2019-08-26 10:30:07,060 - NewTours_Automation_201_Logs -INFO - Phone number is enetered
+2019-08-26 10:30:07,119 - NewTours_Automation_201_Logs -INFO - Email field is displayed
+2019-08-26 10:30:07,365 - NewTours_Automation_201_Logs -INFO - Email is entered
+2019-08-26 10:30:07,414 - NewTours_Automation_201_Logs -INFO - Adderss Line 1 field is displayed
+2019-08-26 10:30:07,558 - NewTours_Automation_201_Logs -INFO - Address Line 1 is entered
+2019-08-26 10:30:07,604 - NewTours_Automation_201_Logs -INFO - Address Line 2 field is displayed
+2019-08-26 10:30:07,744 - NewTours_Automation_201_Logs -INFO - Address Line 2 is entered
+2019-08-26 10:30:07,790 - NewTours_Automation_201_Logs -INFO - City field is displayed
+2019-08-26 10:30:07,898 - NewTours_Automation_201_Logs -INFO - City is entered
+2019-08-26 10:30:07,950 - NewTours_Automation_201_Logs -INFO - State field is displayed
+2019-08-26 10:30:08,069 - NewTours_Automation_201_Logs -INFO - State is entered
+2019-08-26 10:30:08,121 - NewTours_Automation_201_Logs -INFO - Postal code field is present
+2019-08-26 10:30:08,208 - NewTours_Automation_201_Logs -INFO - Postal code is entered
+2019-08-26 10:30:08,265 - NewTours_Automation_201_Logs -INFO - Country dropdown is displayed
+2019-08-26 10:30:08,385 - NewTours_Automation_201_Logs -INFO - Country selected from dropdown
+2019-08-26 10:30:08,437 - NewTours_Automation_201_Logs -INFO - Username field is displayed
+2019-08-26 10:30:08,538 - NewTours_Automation_201_Logs -INFO - Username is entered
+2019-08-26 10:30:08,589 - NewTours_Automation_201_Logs -INFO - Password field is displayed
+2019-08-26 10:30:08,689 - NewTours_Automation_201_Logs -INFO - Password is entered
+2019-08-26 10:30:08,736 - NewTours_Automation_201_Logs -INFO - Confirm password field is displayed
+2019-08-26 10:30:08,821 - NewTours_Automation_201_Logs -INFO - Password re-entered in confirm password field
+2019-08-26 10:30:08,874 - NewTours_Automation_201_Logs -INFO - Submit button is displayed
+2019-08-26 10:30:08,893 - NewTours_Automation_201_Logs -INFO - Submit button is clickable
+2019-08-26 10:30:26,229 - NewTours_Automation_201_Logs -INFO - Submit button is clicked
+2019-08-26 10:30:26,633 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2019-08-26 10:30:27,017 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2019-08-26 10:30:27,018 - NewTours_Automation_201_Logs -INFO - Screenshot captured in Extent Report
+2019-08-26 10:30:27,070 - NewTours_Automation_201_Logs -INFO - Sign in Link is displayed
+2019-08-26 10:30:27,091 - NewTours_Automation_201_Logs -INFO - Sign in Link is clickable
+2019-08-26 10:30:27,886 - NewTours_Automation_201_Logs -INFO - Sign in Link is clicked
+2019-08-26 10:30:28,381 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2019-08-26 10:30:28,382 - NewTours_Automation_201_Logs -INFO - Registration Testcase Passed
+2019-08-26 10:30:28,787 - NewTours_Automation_201_Logs -INFO - Starting Sign In TestCase
+2019-08-26 10:30:29,098 - NewTours_Automation_201_Logs -INFO - Username field is displayed
+2019-08-26 10:30:29,221 - NewTours_Automation_201_Logs -INFO - Username is entered
+2019-08-26 10:30:29,295 - NewTours_Automation_201_Logs -INFO - Password field is displayed
+2019-08-26 10:30:29,407 - NewTours_Automation_201_Logs -INFO - Password is entered
+2019-08-26 10:30:29,473 - NewTours_Automation_201_Logs -INFO - Submit button is displayed
+2019-08-26 10:30:29,498 - NewTours_Automation_201_Logs -INFO - Submit button is clickable
+2019-08-26 10:30:31,567 - NewTours_Automation_201_Logs -INFO - Submit button is clicked
+2019-08-26 10:30:31,575 - NewTours_Automation_201_Logs -ERROR - Sign in failed expected [true] but found [false]
+2019-08-26 10:30:31,977 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2019-08-26 10:30:31,978 - NewTours_Automation_201_Logs -INFO - Screenshot captured in Extent Report
+2019-08-26 10:30:31,984 - NewTours_Automation_201_Logs -INFO - Starting Sign In TestCase
+2019-08-26 10:30:32,242 - NewTours_Automation_201_Logs -INFO - Username field is displayed
+2019-08-26 10:30:32,371 - NewTours_Automation_201_Logs -INFO - Username is entered
+2019-08-26 10:30:32,421 - NewTours_Automation_201_Logs -INFO - Password field is displayed
+2019-08-26 10:30:32,499 - NewTours_Automation_201_Logs -INFO - Password is entered
+2019-08-26 10:30:32,556 - NewTours_Automation_201_Logs -INFO - Submit button is displayed
+2019-08-26 10:30:32,573 - NewTours_Automation_201_Logs -INFO - Submit button is clickable
+2019-08-26 10:30:36,351 - NewTours_Automation_201_Logs -INFO - Submit button is clicked
+2019-08-26 10:30:40,397 - NewTours_Automation_201_Logs -ERROR - chrome not reachable
+  (Session info: chrome=76.0.3809.100)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'A2ML27068', ip: '192.168.31.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.38.552522 (437e6fbedfa876..., userDataDir: C:\Users\M1044429\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 76.0.3809.100, webStorageEnabled: true}
+Session ID: 16ebd45db51bb3e3a17ed7671ce92584
+2019-08-26 10:30:44,498 - NewTours_Automation_201_Logs -INFO - Starting One Way Trip TestCase
+2019-08-26 10:30:48,796 - NewTours_Automation_201_Logs -ERROR - Unhandled Exception: chrome not reachable
+  (Session info: chrome=76.0.3809.100)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'A2ML27068', ip: '192.168.31.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.38.552522 (437e6fbedfa876..., userDataDir: C:\Users\M1044429\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 76.0.3809.100, webStorageEnabled: true}
+Session ID: 16ebd45db51bb3e3a17ed7671ce92584
+2019-08-26 10:30:52,928 - NewTours_Automation_201_Logs -INFO - Starting Two Way Trip TestCase
+2019-08-26 10:30:57,033 - NewTours_Automation_201_Logs -ERROR - Unhandled Exception: chrome not reachable
+  (Session info: chrome=76.0.3809.100)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'A2ML27068', ip: '192.168.31.18', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.38.552522 (437e6fbedfa876..., userDataDir: C:\Users\M1044429\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 76.0.3809.100, webStorageEnabled: true}
+Session ID: 16ebd45db51bb3e3a17ed7671ce92584
+2019-08-26 10:31:01,069 - NewTours_Automation_201_Logs -INFO - Closing browser
+2019-08-26 10:31:01,688 - NewTours_Automation_201_Logs -INFO - Browser Closed
+2020-09-10 03:20:25,082 - NewTours_Automation_201_Logs -INFO - Starting browser
+2020-09-10 03:20:31,107 - NewTours_Automation_201_Logs -INFO - Browser started
+2020-09-10 03:21:04,144 - NewTours_Automation_201_Logs -INFO - Url entered
+2020-09-10 03:21:05,394 - NewTours_Automation_201_Logs -INFO - Starting Register TestCase
+2020-09-10 03:21:26,482 - NewTours_Automation_201_Logs -ERROR - The Webelement could not be loaded in the specified time
+2020-09-10 03:21:26,863 - NewTours_Automation_201_Logs -INFO - Screenshot Taken
+2020-09-10 03:21:26,865 - NewTours_Automation_201_Logs -INFO - Screenshot captured in Extent Report
+2020-09-10 03:21:26,885 - NewTours_Automation_201_Logs -INFO - Starting Register TestCase

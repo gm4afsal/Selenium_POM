@@ -1,0 +1,8 @@
+2020-09-10 03:20:25,082 [main] INFO NewTours_Automation_201_Logs - Starting browser
+2020-09-10 03:20:31,107 [main] INFO NewTours_Automation_201_Logs - Browser started
+2020-09-10 03:21:04,144 [main] INFO NewTours_Automation_201_Logs - Url entered
+2020-09-10 03:21:05,394 [main] INFO NewTours_Automation_201_Logs - Starting Register TestCase
+2020-09-10 03:21:26,482 [main] ERROR NewTours_Automation_201_Logs - The Webelement could not be loaded in the specified time
+2020-09-10 03:21:26,863 [main] INFO NewTours_Automation_201_Logs - Screenshot Taken
+2020-09-10 03:21:26,865 [main] INFO NewTours_Automation_201_Logs - Screenshot captured in Extent Report
+2020-09-10 03:21:26,885 [main] INFO NewTours_Automation_201_Logs - Starting Register TestCase
